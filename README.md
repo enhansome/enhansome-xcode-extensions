@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,909 | 🐛 297 | 🌐 Swift | 📅 2026-08-12 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,912 | 🐛 298 | 🌐 Swift | 📅 2026-08-12 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,845 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -124,7 +124,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Uncategorized
 
-* [XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,285 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14 - Vim key-bindings for Xcode.
+* [XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,286 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14 - Vim key-bindings for Xcode.
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ⭐ 453 | 🐛 1 | 🌐 Swift | 📅 2024-01-02 - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser.
 * [EmojifySourceEditorExtension](https://github.com/bhargavg/EmojifySourceEditorExtension) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2016-06-15 - A Proof-Of-Concept implementation of the new Xcode Source Editor Extension
 * [CwlWhitespace](https://github.com/mattgallagher/CwlWhitespace) ⭐ 26 | 🐛 1 | 🌐 Swift | 📅 2018-10-24 - The first command uses multiple selections to select every text range in your file that it believes is violating a whitespace rule. If a line contains a zero-length problem (missing whitespace or missing indent) then the whole line will be selected.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
