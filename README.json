@@ -55,7 +55,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T14:02:48Z",
+            "last_commit": "2026-08-15T02:32:57Z",
             "owner": "nicklockwood",
             "repo": "SwiftFormat",
             "stars": 8912
@@ -1378,7 +1378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:39:05.344Z",
+    "last_updated": "2026-08-15T02:33:14.743Z",
     "original_repository": "theswiftdev/awesome-xcode-extensions",
     "original_repository_sha": "105db40a36f86c00516c4fa3339c373bf4dd4806",
     "enhanced_repository": "enhansome/enhansome-xcode-extensions",
