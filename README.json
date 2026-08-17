@@ -86,7 +86,7 @@
             "last_commit": "2026-08-03T15:39:47Z",
             "owner": "Jintin",
             "repo": "Swimat",
-            "stars": 1632
+            "stars": 1631
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2024-01-02T00:10:55Z",
             "owner": "MarcoEidinger",
             "repo": "SwiftPlantUML-Xcode-Extension",
-            "stars": 453
+            "stars": 454
           }
         },
         {
@@ -1378,7 +1378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:42:36.667Z",
+    "last_updated": "2026-08-17T02:42:28.415Z",
     "original_repository": "theswiftdev/awesome-xcode-extensions",
     "original_repository_sha": "105db40a36f86c00516c4fa3339c373bf4dd4806",
     "enhanced_repository": "enhansome/enhansome-xcode-extensions",
