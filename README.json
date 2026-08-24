@@ -1249,6 +1249,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "XcodeExtension-TotsuzenNoShi",
+              "description": "A small \"sudden\" example of Xcode source code extension",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 63071009,
+                "language": "Swift",
+                "last_commit": "2016-07-12T15:25:35Z",
+                "owner": "safx",
+                "repo": "XcodeExtension-TotsuzenNoShi",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Joke"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "XVim2",
               "description": "Vim key-bindings for Xcode.",
               "children": [],
@@ -1437,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:46:22.609Z",
+    "last_updated": "2026-08-24T13:59:06.200Z",
     "original_repository": "theswiftdev/awesome-xcode-extensions",
     "original_repository_id": 65938895,
     "original_repository_sha": "105db40a36f86c00516c4fa3339c373bf4dd4806",
