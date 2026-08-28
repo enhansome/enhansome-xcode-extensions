@@ -18,7 +18,8 @@
                 "owner": "takasek",
                 "repo": "XcodeExtensionSample",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "wuwen1030",
                 "repo": "XTExtension",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -51,11 +53,12 @@
                 "archived": false,
                 "id": 66302557,
                 "language": "Swift",
-                "last_commit": "2026-08-23T18:01:16Z",
+                "last_commit": "2026-08-27T16:40:28Z",
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
                 "stars": 8921
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "qfish",
                 "repo": "XAlign",
                 "stars": 2844
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "Jintin",
                 "repo": "Swimat",
                 "stars": 1631
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "tid-kijyun",
                 "repo": "XcodeSourceEditorExtension-Alignment",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "norio-nomura",
                 "repo": "SwiftLintForXcode",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "BalestraPatrick",
                 "repo": "CleanClosureXcode",
                 "stars": 181
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "zoejessica",
                 "repo": "AccessControlKitty",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "Karetski",
                 "repo": "snowonder",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "insanoid",
                 "repo": "CleanHeaders-Xcode",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "V8tr",
                 "repo": "LinesSorter-Xcode-Extension",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "squarefrog",
                 "repo": "strimmer",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "shalamowww",
                 "repo": "Imp",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "VernonVan",
                 "repo": "PPImportArrangerExtension",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -257,7 +272,8 @@
                 "owner": "glideapps",
                 "repo": "quicktype-xcode",
                 "stars": 1669
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "seanhenry",
                 "repo": "SwiftMockGeneratorForXcode",
                 "stars": 757
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "Bouke",
                 "repo": "SwiftInitializerGenerator",
                 "stars": 714
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "hhfa008",
                 "repo": "SwiftAI",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "sergdort",
                 "repo": "XcodeEquatableGenerator",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "wleii",
                 "repo": "TrickerX",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "funzin",
                 "repo": "ViewGenerator",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "wangjiejacques",
                 "repo": "CodeGenerator",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "timaktimak",
                 "repo": "SwitchCaseGenerator",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "atimca",
                 "repo": "SwiftInitGenerator",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -407,7 +432,8 @@
                 "owner": "esttorhe",
                 "repo": "Localizer",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -422,7 +448,8 @@
                 "owner": "keepyounger",
                 "repo": "Json2Property",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "bkobilansky",
                 "repo": "GenerateSwiftInit",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -452,7 +480,8 @@
                 "owner": "raptorxcz",
                 "repo": "Rubicon",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "mrlegowatch",
                 "repo": "JSON-to-Swift-Converter",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -482,7 +512,8 @@
                 "owner": "serhii-londar",
                 "repo": "DocumenterXcode",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "87kangsw",
                 "repo": "ThenGenerator",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "DominikBucher12",
                 "repo": "BEExtension",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -527,7 +560,8 @@
                 "owner": "wgy6055",
                 "repo": "MappingCoder",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -549,7 +583,8 @@
                 "owner": "markohlebar",
                 "repo": "Import",
                 "stars": 838
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -564,7 +599,8 @@
                 "owner": "onmyway133",
                 "repo": "XcodeColorSense2",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -579,7 +615,8 @@
                 "owner": "velyan",
                 "repo": "Comment-Spell-Checker",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -594,7 +631,8 @@
                 "owner": "velyan",
                 "repo": "Mark",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -609,7 +647,8 @@
                 "owner": "twostraws",
                 "repo": "Sharpshooter",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -624,7 +663,8 @@
                 "owner": "tuan188",
                 "repo": "MGTextPlus",
                 "stars": 97
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -639,7 +679,8 @@
                 "owner": "hhfa008",
                 "repo": "AutoImport",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -654,7 +695,8 @@
                 "owner": "funky-monkey",
                 "repo": "QuickAdd",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -669,7 +711,8 @@
                 "owner": "richardfrk",
                 "repo": "EricsMark",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -684,7 +727,8 @@
                 "owner": "wangshengjia",
                 "repo": "XcodeEditorPlus",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -699,7 +743,8 @@
                 "owner": "flexih",
                 "repo": "XcodeCComment",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -714,7 +759,8 @@
                 "owner": "chrischute",
                 "repo": "xcode-multi-line-func",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -729,7 +775,8 @@
                 "owner": "Igor-Palaguta",
                 "repo": "LiteralsExtension",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -744,7 +791,8 @@
                 "owner": "mateusfsilva",
                 "repo": "LocalizedString",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -759,7 +807,8 @@
                 "owner": "HarmVanRisk",
                 "repo": "SwitchIt",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -774,7 +823,8 @@
                 "owner": "takasek",
                 "repo": "XCJumpToTests",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -789,7 +839,8 @@
                 "owner": "liaojinxing",
                 "repo": "ConflictResolver",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -804,7 +855,8 @@
                 "owner": "bradhowes",
                 "repo": "BlockComment",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -819,7 +871,8 @@
                 "owner": "rickytan",
                 "repo": "XPaste",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -834,7 +887,8 @@
                 "owner": "wangjiejacques",
                 "repo": "XSpellCheck",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -849,7 +903,8 @@
                 "owner": "ebaker355",
                 "repo": "FastCommentLine",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -864,7 +919,8 @@
                 "owner": "uchuugaka",
                 "repo": "Linex",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -879,7 +935,8 @@
                 "owner": "castus",
                 "repo": "Xcode8Extensions",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -894,7 +951,8 @@
                 "owner": "timaktimak",
                 "repo": "DeclareType",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -909,7 +967,8 @@
                 "owner": "shindyu",
                 "repo": "NSLayoutConstraintSourceEditorExtension",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -924,7 +983,8 @@
                 "owner": "alexito4",
                 "repo": "XcodeTopComment",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -939,7 +999,8 @@
                 "owner": "sidepelican",
                 "repo": "LineEscapeEx",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -954,7 +1015,8 @@
                 "owner": "konkontos",
                 "repo": "HandyXcode",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -969,7 +1031,8 @@
                 "owner": "mretondo",
                 "repo": "XCSmartCutCopyPaste",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -984,7 +1047,8 @@
                 "owner": "AlexeyGolovenkov",
                 "repo": "DevHelper",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -999,7 +1063,8 @@
                 "owner": "HarmVanRisk",
                 "repo": "DoubleTake",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -1021,7 +1086,8 @@
                 "owner": "onmyway133",
                 "repo": "XcodeWay",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1102,8 @@
                 "owner": "insidegui",
                 "repo": "PlayAlways",
                 "stars": 548
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1118,8 @@
                 "owner": "bow-swift",
                 "repo": "nef-plugin",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1134,8 @@
                 "owner": "Bunn",
                 "repo": "Xgist",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1150,8 @@
                 "owner": "Otbivnoe",
                 "repo": "XShared",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1166,8 @@
                 "owner": "maoyama",
                 "repo": "GitBlamePR",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1111,7 +1182,8 @@
                 "owner": "artemnovichkov",
                 "repo": "RaySo",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1126,7 +1198,8 @@
                 "owner": "ambientlight",
                 "repo": "GithubIssuesExtension",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1141,7 +1214,8 @@
                 "owner": "sm11963",
                 "repo": "XcodeUniversalSearch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -1163,7 +1237,8 @@
                 "owner": "music4kid",
                 "repo": "EasyCode-Xcode",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1178,7 +1253,8 @@
                 "owner": "MrPans",
                 "repo": "CodeGenerator",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1193,7 +1269,8 @@
                 "owner": "bgannin",
                 "repo": "Pragmatic",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1208,7 +1285,8 @@
                 "owner": "b-yng",
                 "repo": "Basics",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1223,7 +1301,8 @@
                 "owner": "joelekstrom",
                 "repo": "xcode-nscoding",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1238,7 +1317,8 @@
                 "owner": "josipbernat",
                 "repo": "Propertizer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -1260,7 +1340,8 @@
                 "owner": "safx",
                 "repo": "XcodeExtension-TotsuzenNoShi",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -1282,7 +1363,8 @@
                 "owner": "XVimProject",
                 "repo": "XVim2",
                 "stars": 2286
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1297,7 +1379,8 @@
                 "owner": "MarcoEidinger",
                 "repo": "SwiftPlantUML-Xcode-Extension",
                 "stars": 454
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1312,7 +1395,8 @@
                 "owner": "bhargavg",
                 "repo": "EmojifySourceEditorExtension",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1327,7 +1411,8 @@
                 "owner": "mattgallagher",
                 "repo": "CwlWhitespace",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1342,7 +1427,8 @@
                 "owner": "flybrotherlixiang",
                 "repo": "FBXCodeExtension",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1357,7 +1443,8 @@
                 "owner": "tjarratt",
                 "repo": "BDDShortcuts",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1372,7 +1459,8 @@
                 "owner": "deszip",
                 "repo": "Jump",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1387,7 +1475,8 @@
                 "owner": "eddiekaiger",
                 "repo": "Jumpy",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1402,7 +1491,8 @@
                 "owner": "rickytan",
                 "repo": "DemoXcodeExtension",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1417,7 +1507,8 @@
                 "owner": "pyretttt",
                 "repo": "XCDoTo",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1432,7 +1523,8 @@
                 "owner": "AfricanSwift",
                 "repo": "SETools",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             },
             {
               "node_type": "item",
@@ -1447,7 +1539,8 @@
                 "owner": "hugofalkman",
                 "repo": "TestXcodeSourceExtensions",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
             }
           ],
           "description": null,
@@ -1459,7 +1552,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:12:00.599Z",
+    "last_updated": "2026-08-28T13:13:35.160Z",
     "original_repository_info": {
       "archived": false,
       "id": 65938895,
