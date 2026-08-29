@@ -12,12 +12,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various sample commands to implement Xcode Source Editor Extension",
+                "homepage": null,
                 "id": 103715673,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-09-16T09:06:28Z",
+                "open_issues": 1,
                 "owner": "takasek",
                 "repo": "XcodeExtensionSample",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -28,12 +35,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A demo for Xcode Source Editor Extension",
+                "homepage": null,
                 "id": 61801713,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-06-23T12:04:31Z",
+                "open_issues": 0,
                 "owner": "wuwen1030",
                 "repo": "XTExtension",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -51,12 +63,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line tool and Xcode Extension for formatting Swift code",
+                "homepage": null,
                 "id": 66302557,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:40:28Z",
+                "open_issues": 304,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8921
+                "stars": 8922,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -67,12 +84,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An amazing Xcode Source Editor extension to align regular code. It can align anything in any way you want.",
+                "homepage": null,
                 "id": 14839011,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2021-12-08T13:08:39Z",
+                "open_issues": 57,
                 "owner": "qfish",
                 "repo": "XAlign",
-                "stars": 2844
+                "stars": 2844,
+                "topics": [
+                  "xalign",
+                  "xcode-extension",
+                  "xcode-plugin",
+                  "xcode8"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -83,12 +110,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ARCHIVED] An Xcode formatter plug-in for Swift. Superseded by swift-format, now built into Xcode.",
+                "homepage": "https://jintin.github.io/Swimat/",
                 "id": 46051130,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-03T15:39:47Z",
+                "open_issues": 0,
                 "owner": "Jintin",
                 "repo": "Swimat",
-                "stars": 1631
+                "stars": 1631,
+                "topics": [
+                  "formatter",
+                  "swift",
+                  "swimat",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -99,12 +138,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This Xcode source editor extension align your assignment statement.",
+                "homepage": null,
                 "id": 61227804,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-11-23T14:45:15Z",
+                "open_issues": 4,
                 "owner": "tid-kijyun",
                 "repo": "XcodeSourceEditorExtension-Alignment",
-                "stars": 216
+                "stars": 216,
+                "topics": [
+                  "swift",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -115,12 +163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a sample of Xcode Extension that runs `swiftlint autocorrect`",
+                "homepage": null,
                 "id": 61552137,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-02-13T02:04:18Z",
+                "open_issues": 1,
                 "owner": "norio-nomura",
                 "repo": "SwiftLintForXcode",
-                "stars": 190
+                "stars": 190,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -131,12 +184,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode Source Editor extension to clean the closure syntax.",
+                "homepage": null,
                 "id": 61671612,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-01-06T15:12:13Z",
+                "open_issues": 0,
                 "owner": "BalestraPatrick",
                 "repo": "CleanClosureXcode",
-                "stars": 181
+                "stars": 181,
+                "topics": [
+                  "closure",
+                  "extension",
+                  "swift",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -147,12 +210,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode extension - quickly change access control level (public, private etc.) of selected Swift code by Editor menu item or keyboard command",
+                "homepage": null,
                 "id": 132677014,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-06-06T08:39:12Z",
+                "open_issues": 5,
                 "owner": "zoejessica",
                 "repo": "AccessControlKitty",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "developer-tools",
+                  "macos",
+                  "source-editor-extension",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -163,12 +237,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔮 Magical import declarations formatter for Xcode",
+                "homepage": null,
                 "id": 65030361,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-05-20T01:50:35Z",
+                "open_issues": 4,
                 "owner": "Karetski",
                 "repo": "snowonder",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "formatter",
+                  "import",
+                  "objective-c",
+                  "snowonder",
+                  "sort",
+                  "swift",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -179,12 +268,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Xcode Source Editor Extension to sort your header imports and remove duplicates, similar to iSort.",
+                "homepage": "https://github.com/insanoid/CleanHeaders-Xcode",
                 "id": 43787283,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-10-28T22:19:28Z",
+                "open_issues": 0,
                 "owner": "insanoid",
                 "repo": "CleanHeaders-Xcode",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "import",
+                  "import-order",
+                  "remove-duplicates",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -195,12 +294,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Extension that helps you keep your import statements and long code lists organized and uniform",
+                "homepage": "http://www.vadimbulavin.com/",
                 "id": 145131879,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2024-05-03T08:47:47Z",
+                "open_issues": 3,
                 "owner": "V8tr",
                 "repo": "LinesSorter-Xcode-Extension",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "developer-tools",
+                  "ios",
+                  "lines-sorter",
+                  "macos",
+                  "objective-c",
+                  "osx",
+                  "swift",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin",
+                  "xcode-source-editor-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -211,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode 8 Source Editor Extension to strip whitespace from the current file.",
+                "homepage": null,
                 "id": 61531727,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-10-25T11:13:26Z",
+                "open_issues": 1,
                 "owner": "squarefrog",
                 "repo": "strimmer",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -227,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Xcode extension for sorting import statements",
+                "homepage": null,
                 "id": 99221853,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-02-28T23:18:46Z",
+                "open_issues": 0,
                 "owner": "shalamowww",
                 "repo": "Imp",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -243,12 +369,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode 格式化所有 Import 的插件",
+                "homepage": null,
                 "id": 119923310,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2018-04-27T03:17:32Z",
+                "open_issues": 0,
                 "owner": "VernonVan",
                 "repo": "PPImportArrangerExtension",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "appkit",
+                  "extension",
+                  "ios",
+                  "mac",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -266,12 +403,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode extension to paste JSON as Swift, Objective-C, and more",
+                "homepage": "https://quicktype.io",
                 "id": 115092383,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-11T01:18:11Z",
+                "open_issues": 9,
                 "owner": "glideapps",
                 "repo": "quicktype-xcode",
-                "stars": 1669
+                "stars": 1669,
+                "topics": [
+                  "cpp",
+                  "json",
+                  "objective-c",
+                  "swift",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -282,12 +430,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode extension (plugin) to generate Swift test doubles automatically.",
+                "homepage": null,
                 "id": 100774507,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2022-09-20T15:09:03Z",
+                "open_issues": 20,
                 "owner": "seanhenry",
                 "repo": "SwiftMockGeneratorForXcode",
-                "stars": 757
+                "stars": 757,
+                "topics": [
+                  "mock",
+                  "plugin",
+                  "source-editor-extension",
+                  "sourcekit",
+                  "stub",
+                  "swift",
+                  "test-doubles",
+                  "testing",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -298,12 +463,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Source Code Extension to Generate Swift Initializers",
+                "homepage": null,
                 "id": 67921642,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-08-13T05:41:04Z",
+                "open_issues": 7,
                 "owner": "Bouke",
                 "repo": "SwiftInitializerGenerator",
-                "stars": 714
+                "stars": 714,
+                "topics": [
+                  "code-generator",
+                  "swift",
+                  "swift-initializer",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -314,12 +489,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SwiftAI, write Swift code smart. SwiftAI can generate  Model class  from JSON now. Codable and HandyJSON is supported. More features will be add.",
+                "homepage": null,
                 "id": 119242146,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-03-14T04:43:41Z",
+                "open_issues": 3,
                 "owner": "hhfa008",
                 "repo": "SwiftAI",
-                "stars": 493
+                "stars": 493,
+                "topics": [
+                  "cocoa",
+                  "cocoa-touch",
+                  "codable",
+                  "codable-xcode-extension",
+                  "handyjson",
+                  "ios",
+                  "json",
+                  "model",
+                  "swift",
+                  "uikit",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -330,12 +524,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.",
+                "homepage": null,
                 "id": 70411078,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-03-27T14:15:05Z",
+                "open_issues": 1,
                 "owner": "sergdort",
                 "repo": "XcodeEquatableGenerator",
-                "stars": 188
+                "stars": 188,
+                "topics": [
+                  "extension",
+                  "swift-equatable",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -346,12 +551,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode9+ Extension which make CodingKeys automatically.",
+                "homepage": null,
                 "id": 111662567,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-02-02T08:35:17Z",
+                "open_issues": 2,
                 "owner": "wleii",
                 "repo": "TrickerX",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "codable",
+                  "codable-xcode-extension",
+                  "codingkeys",
+                  "codingkeys-xcode-extension",
+                  "swift4",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -362,12 +580,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚒ ViewGenerator generates view code from variable name automatically in iOS development",
+                "homepage": null,
                 "id": 200463774,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-11-30T21:47:36Z",
+                "open_issues": 0,
                 "owner": "funzin",
                 "repo": "ViewGenerator",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "ios",
+                  "mac",
+                  "macapp",
+                  "swift",
+                  "uiview",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin",
+                  "xcode-source-editor-extension",
+                  "xcode10",
+                  "xcode11"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -378,12 +613,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 77344134,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-02-15T14:47:10Z",
+                "open_issues": 1,
                 "owner": "wangjiejacques",
                 "repo": "CodeGenerator",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -394,12 +636,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode Source Editor Extension that generates a swift switch case statement based on selected enum cases",
+                "homepage": null,
                 "id": 77321571,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-12-26T15:04:07Z",
+                "open_issues": 2,
                 "owner": "timaktimak",
                 "repo": "SwitchCaseGenerator",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "autocomplete",
+                  "case",
+                  "enum",
+                  "extension",
+                  "generate",
+                  "shortcut",
+                  "source-code-extension",
+                  "swift",
+                  "switch",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -410,12 +668,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 159687357,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-05-31T11:22:37Z",
+                "open_issues": 0,
                 "owner": "atimca",
                 "repo": "SwiftInitGenerator",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -426,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode 8 Source Editor Extension to quickly wrap strings into NSLocalizedString()",
+                "homepage": null,
                 "id": 62109835,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-06-28T04:40:05Z",
+                "open_issues": 3,
                 "owner": "esttorhe",
                 "repo": "Localizer",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -442,12 +710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Json to Property (Xcode Editor Extension Xcode8 or later)",
+                "homepage": null,
                 "id": 71553491,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2021-08-10T10:22:53Z",
+                "open_issues": 0,
                 "owner": "keepyounger",
                 "repo": "Json2Property",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -458,12 +731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Proof of concept for Xcode 8 source extensions; generate a Swift init from current selection",
+                "homepage": null,
                 "id": 61091732,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-11-13T02:24:25Z",
+                "open_issues": 1,
                 "owner": "bkobilansky",
                 "repo": "GenerateSwiftInit",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -474,12 +752,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift parser + mock generator",
+                "homepage": null,
                 "id": 89345959,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-06T19:28:10Z",
+                "open_issues": 5,
                 "owner": "raptorxcz",
                 "repo": "Rubicon",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "mock",
+                  "protocol",
+                  "rubicon",
+                  "spy",
+                  "swift",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -490,12 +781,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode editor extension to convert JSON format into Swift code.",
+                "homepage": null,
                 "id": 83165858,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-03-15T11:40:06Z",
+                "open_issues": 3,
                 "owner": "mrlegowatch",
                 "repo": "JSON-to-Swift-Converter",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "json",
+                  "swift",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -506,12 +807,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attempt to give a new life for VVDocumenter-Xcode as source editor extension.",
+                "homepage": null,
                 "id": 114821973,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2018-10-12T17:29:26Z",
+                "open_issues": 3,
                 "owner": "serhii-londar",
                 "repo": "DocumenterXcode",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "hacktoberfest",
+                  "objective-c",
+                  "vvdocumenter",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin",
+                  "xcode8",
+                  "xcode9"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -522,12 +837,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Source Editor Extension for 'Then'",
+                "homepage": null,
                 "id": 326455407,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-01-15T05:24:56Z",
+                "open_issues": 0,
                 "owner": "87kangsw",
                 "repo": "ThenGenerator",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "syntactic-sugar",
+                  "then",
+                  "xcode-source-editor-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -538,12 +862,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XcodeKit extension for delivering variables and switches from enum cases",
+                "homepage": null,
                 "id": 92510393,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-09-21T12:48:12Z",
+                "open_issues": 0,
                 "owner": "DominikBucher12",
                 "repo": "BEExtension",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "delivering-variables",
+                  "enum-cases",
+                  "switches",
+                  "xcodekit-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -554,12 +888,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧑🏼‍💻 An Xcode Source Editor extension for ObjectMapper user to convert JSON into Swift code.",
+                "homepage": null,
                 "id": 387156786,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-08-06T14:12:08Z",
+                "open_issues": 0,
                 "owner": "wgy6055",
                 "repo": "MappingCoder",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "autocomplete",
+                  "ios",
+                  "jsonmapping",
+                  "objectmapper",
+                  "plugin",
+                  "swift",
+                  "swiftsyntax",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin",
+                  "xcode-source-editor-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -577,12 +928,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode extension for adding imports from anywhere in the code ☝️",
+                "homepage": null,
                 "id": 70063194,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-04-14T10:28:10Z",
+                "open_issues": 10,
                 "owner": "markohlebar",
                 "repo": "Import",
-                "stars": 838
+                "stars": 838,
+                "topics": [
+                  "macos",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -593,12 +954,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍉 An Xcode source editor extension that shows hex color info",
+                "homepage": "https://onmyway133.com/",
                 "id": 89641380,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-11T06:45:06Z",
+                "open_issues": 1,
                 "owner": "onmyway133",
                 "repo": "XcodeColorSense2",
-                "stars": 287
+                "stars": 287,
+                "topics": [
+                  "color",
+                  "editor",
+                  "extension",
+                  "hex",
+                  "name",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -609,12 +982,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode extension for spell checking and auto-correcting code comments.",
+                "homepage": null,
                 "id": 158926920,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-12-26T03:17:38Z",
+                "open_issues": 2,
                 "owner": "velyan",
                 "repo": "Comment-Spell-Checker",
-                "stars": 159
+                "stars": 159,
+                "topics": [
+                  "autocorrect",
+                  "comments",
+                  "extension",
+                  "spellcheck",
+                  "spelling",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -625,12 +1011,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode extension for generating MARK comments.",
+                "homepage": null,
                 "id": 71456652,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-03-30T23:38:01Z",
+                "open_issues": 1,
                 "owner": "velyan",
                 "repo": "Mark",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "mark",
+                  "mark-comments",
+                  "swift",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -641,12 +1037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tiny Xcode extension for people who debug with print().",
+                "homepage": "https://www.hackingwithswift.com",
                 "id": 107052567,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-06-10T14:56:37Z",
+                "open_issues": 0,
                 "owner": "twostraws",
                 "repo": "Sharpshooter",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -657,12 +1058,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Source Editor Extension",
+                "homepage": null,
                 "id": 71987585,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-05-08T06:57:47Z",
+                "open_issues": 4,
                 "owner": "tuan188",
                 "repo": "MGTextPlus",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "source-editor-extension",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -673,12 +1082,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoImport for XCode,  replace Peckham.",
+                "homepage": null,
                 "id": 114745252,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2017-12-23T09:10:50Z",
+                "open_issues": 3,
                 "owner": "hhfa008",
                 "repo": "AutoImport",
-                "stars": 82
+                "stars": 82,
+                "topics": [
+                  "ios",
+                  "ios-app",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -689,12 +1108,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Xcode Source Editor Extension to quickly add a method implementation with comment from selected text",
+                "homepage": null,
                 "id": 72086458,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-10-29T15:42:46Z",
+                "open_issues": 0,
                 "owner": "funky-monkey",
                 "repo": "QuickAdd",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "editor",
+                  "extension",
+                  "plugin",
+                  "source",
+                  "swift",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -705,12 +1136,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XCode 8 Extension. Find and \"//MARK:\".",
+                "homepage": null,
                 "id": 71855892,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-05-29T14:53:05Z",
+                "open_issues": 2,
                 "owner": "richardfrk",
                 "repo": "EricsMark",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "extension",
+                  "mark",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -721,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bring some convenient editor shortcuts to Xcode using Xcode Source Editor Extension, inspired from AppCode.",
+                "homepage": null,
                 "id": 62444905,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-01-05T16:22:12Z",
+                "open_issues": 2,
                 "owner": "wangshengjia",
                 "repo": "XcodeEditorPlus",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -737,12 +1182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Source Editor Extension for C Style Comment /**/",
+                "homepage": null,
                 "id": 65274579,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2021-04-18T00:55:55Z",
+                "open_issues": 0,
                 "owner": "flexih",
                 "repo": "XcodeCComment",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -753,12 +1203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XCode extension to split a Swift function onto multiple lines",
+                "homepage": null,
                 "id": 185464576,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2022-02-18T12:31:26Z",
+                "open_issues": 4,
                 "owner": "chrischute",
                 "repo": "xcode-multi-line-func",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -769,12 +1224,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode extension that converts UIColor, NSColor, UIImage to literal",
+                "homepage": null,
                 "id": 78970953,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-04-12T15:42:58Z",
+                "open_issues": 1,
                 "owner": "Igor-Palaguta",
                 "repo": "LiteralsExtension",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -785,12 +1248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Source Editor Extension that helps to localize Swift and Objective-C source files",
+                "homepage": null,
                 "id": 74976304,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-07-03T15:10:22Z",
+                "open_issues": 0,
                 "owner": "mateusfsilva",
                 "repo": "LocalizedString",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -801,12 +1269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Enum to Switch statement extension for XCode",
+                "homepage": null,
                 "id": 92587647,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2017-05-29T21:32:35Z",
+                "open_issues": 0,
                 "owner": "HarmVanRisk",
                 "repo": "SwitchIt",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -817,12 +1290,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the Xcode Source Editor Extension / AppleScript to jump files of Implementation⇄Tests",
+                "homepage": null,
                 "id": 92045974,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2021-06-30T15:10:33Z",
+                "open_issues": 3,
                 "owner": "takasek",
                 "repo": "XCJumpToTests",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "applescript",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -833,12 +1314,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode Source Editor Extension that helps resolving merge conflicts. There are three options, namely 'Accept theirs', 'Accept Yours', and 'Keep Both'. Only one click and it will make the change for you automatically.",
+                "homepage": null,
                 "id": 124639601,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2018-03-10T10:21:47Z",
+                "open_issues": 0,
                 "owner": "liaojinxing",
                 "repo": "ConflictResolver",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "conflict-resolution",
+                  "merge-conflicts",
+                  "xcode",
+                  "xcode-source-editor-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -849,12 +1340,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode source editor extension for Swift editing that will insert a block comment, possibly with some tags.",
+                "homepage": null,
                 "id": 69760785,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-12-13T13:03:07Z",
+                "open_issues": 0,
                 "owner": "bradhowes",
                 "repo": "BlockComment",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "blockcomment",
+                  "comments",
+                  "swift-editing",
+                  "swift-language",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -865,12 +1367,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Xcode Source Extension to power up your text paste abilities",
+                "homepage": null,
                 "id": 152204440,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2026-06-20T11:16:48Z",
+                "open_issues": 0,
                 "owner": "rickytan",
                 "repo": "XPaste",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "base64",
+                  "editor",
+                  "paste",
+                  "plugin",
+                  "source-extension",
+                  "unicode",
+                  "xcode",
+                  "xpaste"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -881,12 +1397,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 122248032,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-04-03T20:36:26Z",
+                "open_issues": 0,
                 "owner": "wangjiejacques",
                 "repo": "XSpellCheck",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "spellchecker",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -897,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode 8 Source Extension that moves cursor to next line after commenting/uncommenting current line",
+                "homepage": null,
                 "id": 69479863,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-11-19T15:27:11Z",
+                "open_issues": 1,
                 "owner": "ebaker355",
                 "repo": "FastCommentLine",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -913,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Feature packed Xcode extension",
+                "homepage": null,
                 "id": 107660453,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-11-25T23:53:48Z",
+                "open_issues": 1,
                 "owner": "uchuugaka",
                 "repo": "Linex",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -929,12 +1464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Place for all my extensions for Xcode 8",
+                "homepage": null,
                 "id": 61440391,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-01-26T09:21:58Z",
+                "open_issues": 2,
                 "owner": "castus",
                 "repo": "Xcode8Extensions",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -945,12 +1485,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode Source Editor Extension that generates a type declaration based on the file name",
+                "homepage": null,
                 "id": 77181309,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-12-25T15:59:57Z",
+                "open_issues": 0,
                 "owner": "timaktimak",
                 "repo": "DeclareType",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "declare",
+                  "editor",
+                  "extension",
+                  "generate",
+                  "shortcut",
+                  "swift",
+                  "type"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -961,12 +1514,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 127854830,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-01-24T12:41:44Z",
+                "open_issues": 0,
                 "owner": "shindyu",
                 "repo": "NSLayoutConstraintSourceEditorExtension",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "sourceeditorextension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -977,12 +1537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Source Editor Extension to remove or modify the top comment of a file",
+                "homepage": null,
                 "id": 61903617,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2017-02-18T16:08:13Z",
+                "open_issues": 0,
                 "owner": "alexito4",
                 "repo": "XcodeTopComment",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -993,12 +1558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Duplicate lines as comment. (Xcode Source Editor Extension, Xcode 8+)",
+                "homepage": null,
                 "id": 80327411,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-03-26T14:01:46Z",
+                "open_issues": 0,
                 "owner": "sidepelican",
                 "repo": "LineEscapeEx",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1009,12 +1579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "'Handy' Xcode source editor extensions.",
+                "homepage": null,
                 "id": 74669092,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2020-11-14T09:05:10Z",
+                "open_issues": 0,
                 "owner": "konkontos",
                 "repo": "HandyXcode",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1025,12 +1600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First working version",
+                "homepage": null,
                 "id": 145064467,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2019-10-01T21:18:53Z",
+                "open_issues": 0,
                 "owner": "mretondo",
                 "repo": "XCSmartCutCopyPaste",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1041,12 +1621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Small extension for Xcode editor",
+                "homepage": null,
                 "id": 84592973,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-03-27T11:49:17Z",
+                "open_issues": 3,
                 "owner": "AlexeyGolovenkov",
                 "repo": "DevHelper",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1057,12 +1642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode extension that removes duplicate imports from the file you're currently working on",
+                "homepage": null,
                 "id": 165850716,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2019-02-16T22:17:37Z",
+                "open_issues": 0,
                 "owner": "HarmVanRisk",
                 "repo": "DoubleTake",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -1080,12 +1670,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":sailboat: An Xcode Source Editor Extension that helps navigating to many places easier",
+                "homepage": "https://onmyway133.com/",
                 "id": 23253646,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2023-11-29T09:33:39Z",
+                "open_issues": 4,
                 "owner": "onmyway133",
                 "repo": "XcodeWay",
-                "stars": 554
+                "stars": 554,
+                "topics": [
+                  "editor",
+                  "extension",
+                  "navigate",
+                  "source",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1096,12 +1697,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create Xcode playgrounds from your menu bar",
+                "homepage": null,
                 "id": 75977806,
                 "language": "Swift",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-02-04T17:48:30Z",
+                "open_issues": 1,
                 "owner": "insidegui",
                 "repo": "PlayAlways",
-                "stars": 548
+                "stars": 548,
+                "topics": [
+                  "developer-tools",
+                  "playground",
+                  "swift",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1112,12 +1724,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔌 an Xcode extension to use nef features easily",
+                "homepage": "http://nef.bow-swift.io",
                 "id": 194644857,
                 "language": "Swift",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-11T15:19:12Z",
+                "open_issues": 1,
                 "owner": "bow-swift",
                 "repo": "nef-plugin",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "bow",
+                  "hacktoberfest",
+                  "macos",
+                  "nef",
+                  "swift",
+                  "swiftui",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1128,12 +1755,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode extension to send code to GitHub's Gist",
+                "homepage": null,
                 "id": 76250316,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-05-27T14:02:49Z",
+                "open_issues": 4,
                 "owner": "Bunn",
                 "repo": "Xgist",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "developer-tools",
+                  "gist",
+                  "github-gist",
+                  "swift",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1144,12 +1784,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Xcode extension that allows you copying the code with special formatting quotes for social (Slack, Telegram)",
+                "homepage": null,
                 "id": 77700432,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-10-07T12:30:27Z",
+                "open_issues": 0,
                 "owner": "Otbivnoe",
                 "repo": "XShared",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "swift",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1160,12 +1809,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mac app that shows pull request last modified each line of a file, Written in SwiftUI",
+                "homepage": null,
                 "id": 228867281,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-09-21T03:52:53Z",
+                "open_issues": 1,
                 "owner": "maoyama",
                 "repo": "GitBlamePR",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "github",
+                  "macos",
+                  "swiftui",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1176,12 +1835,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Share your awesome code to https://ray.so with Xcode Extension.",
+                "homepage": null,
                 "id": 340242490,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-12-06T15:45:20Z",
+                "open_issues": 0,
                 "owner": "artemnovichkov",
                 "repo": "RaySo",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "macos",
+                  "swift",
+                  "swiftui",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1192,12 +1862,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Xcode editor extension that adds an ability to post and edit github issues through comment templates",
+                "homepage": null,
                 "id": 74845020,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2017-04-15T16:21:47Z",
+                "open_issues": 1,
                 "owner": "ambientlight",
                 "repo": "GithubIssuesExtension",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1208,12 +1883,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode source editor extension to provide custom search urls, just like custom search engines for a browser.",
+                "homepage": null,
                 "id": 311557412,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2020-11-19T06:54:17Z",
+                "open_issues": 4,
                 "owner": "sm11963",
                 "repo": "XcodeUniversalSearch",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "search",
+                  "source-editor-extension",
+                  "swift",
+                  "xcode",
+                  "xcode-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -1231,12 +1917,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"legal\" Xcode Plugin for inserting code in super duper fast lazy way.",
+                "homepage": "http://mrpeak.cn",
                 "id": 71041755,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2019-10-06T13:23:45Z",
+                "open_issues": 18,
                 "owner": "music4kid",
                 "repo": "EasyCode-Xcode",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1247,12 +1938,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Xcode plugin for generate Objectice-C code.",
+                "homepage": null,
                 "id": 91340867,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2019-04-22T05:44:27Z",
+                "open_issues": 0,
                 "owner": "MrPans",
                 "repo": "CodeGenerator",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1263,12 +1962,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚙An Xcode Source Editor extension for simplifying common pragma driven tasks",
+                "homepage": null,
                 "id": 81060318,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2022-01-17T10:16:13Z",
+                "open_issues": 6,
                 "owner": "bgannin",
                 "repo": "Pragmatic",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "c",
+                  "c-plus-plus",
+                  "deprecations",
+                  "developer-tools",
+                  "macros",
+                  "objective-c",
+                  "pragmas",
+                  "source-editor-extension",
+                  "swift",
+                  "warnings",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1279,12 +1997,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode extension that generates NSCopying, isEquals, hash, method declarations, and more.",
+                "homepage": null,
                 "id": 73885264,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2020-01-17T17:28:33Z",
+                "open_issues": 1,
                 "owner": "b-yng",
                 "repo": "Basics",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1295,12 +2018,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode-extension that automatically generates NSCoding-implementations from properties",
+                "homepage": null,
                 "id": 77900378,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2017-02-20T15:38:04Z",
+                "open_issues": 0,
                 "owner": "joelekstrom",
                 "repo": "xcode-nscoding",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1311,12 +2039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Propertizer is Xcode source extension for easily adding @property commands in ObjectiveC source files",
+                "homepage": null,
                 "id": 71883666,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-10-27T08:06:32Z",
+                "open_issues": 0,
                 "owner": "josipbernat",
                 "repo": "Propertizer",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -1334,12 +2067,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A small \"sudden\" example of Xcode source code extension",
+                "homepage": null,
                 "id": 63071009,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-07-12T15:25:35Z",
+                "open_issues": 0,
                 "owner": "safx",
                 "repo": "XcodeExtension-TotsuzenNoShi",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -1357,12 +2095,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vim key-bindings for Xcode 9",
+                "homepage": null,
                 "id": 102631012,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2023-01-14T04:38:39Z",
+                "open_issues": 98,
                 "owner": "XVimProject",
                 "repo": "XVim2",
-                "stars": 2286
+                "stars": 2286,
+                "topics": [
+                  "macos",
+                  "vim",
+                  "xcode",
+                  "xvim"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1373,12 +2121,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode Extension for generating class diagrams from Swift code (powered by PlantUML)",
+                "homepage": "https://github.com/MarcoEidinger/SwiftPlantUML",
                 "id": 333604997,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-01-02T00:10:55Z",
+                "open_issues": 1,
                 "owner": "MarcoEidinger",
                 "repo": "SwiftPlantUML-Xcode-Extension",
-                "stars": 454
+                "stars": 454,
+                "topics": [
+                  "macos",
+                  "osx",
+                  "planttext",
+                  "plantuml",
+                  "plantuml-generating",
+                  "swift",
+                  "xcode",
+                  "xcode-extension",
+                  "xcode-plugin",
+                  "xcode-source-editor-extension"
+                ]
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1389,12 +2153,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Proof-Of-Concept implementation of the new Xcode Source Editor Extension",
+                "homepage": null,
                 "id": 61156273,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-06-15T06:20:46Z",
+                "open_issues": 0,
                 "owner": "bhargavg",
                 "repo": "EmojifySourceEditorExtension",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1405,12 +2174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A whitespace policing source command extension for Xcode 8.",
+                "homepage": null,
                 "id": 62113703,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2018-10-24T12:19:05Z",
+                "open_issues": 1,
                 "owner": "mattgallagher",
                 "repo": "CwlWhitespace",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1421,12 +2195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 72966150,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-05-16T02:43:45Z",
+                "open_issues": 1,
                 "owner": "flybrotherlixiang",
                 "repo": "FBXCodeExtension",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1437,12 +2216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Xcode 8+ extension with common shortcuts for Quick, Cedar, Kiwi, Specta, etc...",
+                "homepage": null,
                 "id": 61508545,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2017-01-20T19:46:00Z",
+                "open_issues": 0,
                 "owner": "tjarratt",
                 "repo": "BDDShortcuts",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1453,12 +2237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XCode source editor extension for quick navigating",
+                "homepage": null,
                 "id": 62141878,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2016-11-18T09:09:13Z",
+                "open_issues": 0,
                 "owner": "deszip",
                 "repo": "Jump",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1469,12 +2258,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode source editor extension for jumping across multiple lines of code",
+                "homepage": null,
                 "id": 61422695,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2020-07-27T07:32:25Z",
+                "open_issues": 1,
                 "owner": "eddiekaiger",
                 "repo": "Jumpy",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1485,12 +2279,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Demo for fast selection of compound statement or block.",
+                "homepage": "https://xcoder.tips/build-your-first-xcode-extension/",
                 "id": 61713933,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-06-22T11:39:59Z",
+                "open_issues": 0,
                 "owner": "rickytan",
                 "repo": "DemoXcodeExtension",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1501,12 +2300,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 606501371,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2023-02-25T18:58:45Z",
+                "open_issues": 1,
                 "owner": "pyretttt",
                 "repo": "XCDoTo",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1517,12 +2321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode 8 Extension - Figlet Font Titles",
+                "homepage": null,
                 "id": 62256290,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-07-27T12:12:36Z",
+                "open_issues": 0,
                 "owner": "AfricanSwift",
                 "repo": "SETools",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -1533,12 +2342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xcode 8 beta 4",
+                "homepage": null,
                 "id": 64856549,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2016-08-03T15:27:13Z",
+                "open_issues": 0,
                 "owner": "hugofalkman",
                 "repo": "TestXcodeSourceExtensions",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             }
@@ -1552,15 +2366,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:13:35.160Z",
+    "last_updated": "2026-08-29T04:22:34.831Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome native Xcode extensions.",
+      "homepage": "https://theswiftdev.com/2017/10/05/awesome-native-xcode-extensions/",
       "id": 65938895,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2023-09-24T15:39:25Z",
+      "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3223
+      "stars": 3223,
+      "topics": [
+        "awesome",
+        "extension",
+        "plugin",
+        "source-editor-extension",
+        "xcode",
+        "xcode-extension",
+        "xcode-plugin"
+      ]
     },
     "original_repository_sha": "105db40a36f86c00516c4fa3339c373bf4dd4806",
     "enhanced_repository": "enhansome/enhansome-xcode-extensions",
