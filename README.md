@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,924 | 🐛 304 | 🌐 Swift | 📅 2026-08-27 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,925 | 🐛 288 | 🌐 Swift | 📅 2026-08-31 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,844 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -60,7 +60,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) ⭐ 159 | 🐛 2 | 🌐 Swift | 📅 2018-12-26 - Runs spell check and auto correct on code comments.
 * [Mark](https://github.com/velyan/Mark) ⭐ 157 | 🐛 1 | 🌐 Swift | 📅 2019-03-30 - Generates MARK comments from protocol conformance in class declaration.
 * [Sharpshooter](https://github.com/twostraws/Sharpshooter) ⭐ 118 | 🐛 0 | 🌐 Swift | 📅 2020-06-10 - A tiny Xcode extension for people who debug with print()
-* [MGTextPlus](https://github.com/tuan188/MGTextPlus) ⭐ 97 | 🐛 4 | 🌐 Swift | 📅 2023-05-08 - A Xcode Source Editor extension to duplicate line, delete line, join lines and more.
+* [MGTextPlus](https://github.com/tuan188/MGTextPlus) ⭐ 96 | 🐛 4 | 🌐 Swift | 📅 2023-05-08 - A Xcode Source Editor extension to duplicate line, delete line, join lines and more.
 * [AutoImport](https://github.com/hhfa008/AutoImport) ⭐ 82 | 🐛 3 | 🌐 Objective-C | 📅 2017-12-23 - AutoImport, handy Xcode plugin to import header file automatically.
 * [Quick Add](https://github.com/funky-monkey/QuickAdd) ⭐ 69 | 🐛 0 | 🌐 Swift | 📅 2018-10-29 - A Xcode Source Editor Extension to quickly add a method implementation with comment from selected text
 * [Eric’s Mark](https://github.com/richardfrk/EricsMark) ⭐ 56 | 🐛 2 | 🌐 Swift | 📅 2021-05-29 - Identifies IBOutlets, IBActions, Super Classes, Properties (and more) and MARK them.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
