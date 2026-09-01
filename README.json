@@ -69,10 +69,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-31T02:30:43Z",
-                "open_issues": 288,
+                "open_issues": 290,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8925,
+                "stars": 8923,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -93,7 +93,7 @@
                 "open_issues": 57,
                 "owner": "qfish",
                 "repo": "XAlign",
-                "stars": 2844,
+                "stars": 2843,
                 "topics": [
                   "xalign",
                   "xcode-extension",
@@ -2130,7 +2130,7 @@
                 "open_issues": 1,
                 "owner": "MarcoEidinger",
                 "repo": "SwiftPlantUML-Xcode-Extension",
-                "stars": 454,
+                "stars": 453,
                 "topics": [
                   "macos",
                   "osx",
@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:22:31.931Z",
+    "last_updated": "2026-09-01T06:36:23.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",

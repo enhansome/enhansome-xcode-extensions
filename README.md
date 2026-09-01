@@ -16,8 +16,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,925 | 🐛 288 | 🌐 Swift | 📅 2026-08-31 - A code library and command-line formatting tool for reformatting Swift code
-* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,844 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,923 | 🐛 290 | 🌐 Swift | 📅 2026-08-31 - A code library and command-line formatting tool for reformatting Swift code
+* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,843 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) ⭐ 190 | 🐛 1 | 🌐 Swift | 📅 2018-02-13 - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
@@ -125,7 +125,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Uncategorized
 
 * [XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,287 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14 - Vim key-bindings for Xcode.
-* [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ⭐ 454 | 🐛 1 | 🌐 Swift | 📅 2024-01-02 - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser.
+* [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ⭐ 453 | 🐛 1 | 🌐 Swift | 📅 2024-01-02 - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser.
 * [EmojifySourceEditorExtension](https://github.com/bhargavg/EmojifySourceEditorExtension) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2016-06-15 - A Proof-Of-Concept implementation of the new Xcode Source Editor Extension
 * [CwlWhitespace](https://github.com/mattgallagher/CwlWhitespace) ⭐ 26 | 🐛 1 | 🌐 Swift | 📅 2018-10-24 - The first command uses multiple selections to select every text range in your file that it believes is violating a whitespace rule. If a line contains a zero-length problem (missing whitespace or missing indent) then the whole line will be selected.
 * [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) ⭐ 18 | 🐛 1 | 🌐 Swift | 📅 2017-05-16 - An Xcode Source Editor Extension providing convenient line manipulation such like **line deletion** and **duplication**.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
