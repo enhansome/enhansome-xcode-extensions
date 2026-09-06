@@ -16,8 +16,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,924 | 🐛 288 | 🌐 Swift | 📅 2026-09-04 - A code library and command-line formatting tool for reformatting Swift code
-* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,843 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,923 | 🐛 288 | 🌐 Swift | 📅 2026-09-04 - A code library and command-line formatting tool for reformatting Swift code
+* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) ⭐ 190 | 🐛 1 | 🌐 Swift | 📅 2018-02-13 - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
@@ -51,7 +51,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) ⭐ 35 | 🐛 3 | 🌐 Objective-C | 📅 2018-10-12 - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ThenGenerator](https://github.com/87kangsw/ThenGenerator) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2022-01-15 - Xcode Source Editor Extension for 'Then'
 * [BExtension](https://github.com/DominikBucher12/BEExtension) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2018-09-21 - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed\&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
-* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,137 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
+* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,136 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
 
 ### Helper on editing
 
@@ -96,7 +96,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Collaborations with internal/external services
 
 * [XcodeWay](https://github.com/onmyway133/XcodeWay) ⭐ 554 | 🐛 4 | 🌐 Swift | 📅 2023-11-29 - Navigate to many places from Xcode
-* [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 548 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
+* [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 547 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
 * [nef](https://github.com/bow-swift/nef-plugin) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2021-11-11 - This Xcode extension enables you to make a code selection and export it to a snippets. **Available on Mac App Store**.
 * [Xgist](https://github.com/Bunn/Xgist) ⭐ 81 | 🐛 4 | 🌐 Swift | 📅 2017-05-27 - Xcode Source Editor Extension that sends code to GitHub's [Gist](https://gist.github.com)
 * [XShared](https://github.com/Otbivnoe/XShared) ⚠️ Archived - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
