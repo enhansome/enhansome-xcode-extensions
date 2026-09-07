@@ -2366,7 +2366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:21:11.027Z",
+    "last_updated": "2026-09-07T06:29:19.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2378,7 +2378,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3223,
+      "stars": 3224,
       "topics": [
         "awesome",
         "extension",
