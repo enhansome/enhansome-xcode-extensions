@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,924 | 🐛 291 | 🌐 Swift | 📅 2026-09-09 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,925 | 🐛 292 | 🌐 Swift | 📅 2026-09-09 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -34,7 +34,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Typed Boilerplate Code Generators
 
 * [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,669 | 🐛 9 | 🌐 JavaScript | 📅 2021-03-11 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
-* [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) ⭐ 757 | 🐛 20 | 🌐 Objective-C | 📅 2022-09-20 - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
+* [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) ⭐ 758 | 🐛 20 | 🌐 Objective-C | 📅 2022-09-20 - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) ⭐ 714 | 🐛 7 | 🌐 Swift | 📅 2019-08-13 - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
 * [SwiftAI](https://github.com/hhfa008/SwiftAI) ⭐ 493 | 🐛 3 | 🌐 Swift | 📅 2020-03-14  - generate Codable\&HandyJSON model class from JSON automatically
 * [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) ⭐ 188 | 🐛 1 | 🌐 Swift | 📅 2019-03-27 - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
