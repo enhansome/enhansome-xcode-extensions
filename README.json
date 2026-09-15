@@ -72,7 +72,7 @@
                 "open_issues": 292,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8930,
+                "stars": 8928,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -2106,7 +2106,7 @@
                 "open_issues": 98,
                 "owner": "XVimProject",
                 "repo": "XVim2",
-                "stars": 2287,
+                "stars": 2286,
                 "topics": [
                   "macos",
                   "vim",
@@ -2132,7 +2132,7 @@
                 "open_issues": 1,
                 "owner": "MarcoEidinger",
                 "repo": "SwiftPlantUML-Xcode-Extension",
-                "stars": 453,
+                "stars": 454,
                 "topics": [
                   "macos",
                   "osx",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:48:19.992Z",
+    "last_updated": "2026-09-15T06:29:46.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3225,
+      "stars": 3226,
       "topics": [
         "awesome",
         "extension",
