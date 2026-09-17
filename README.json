@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-16T01:16:19Z",
-                "open_issues": 291,
+                "last_commit": "2026-09-16T16:58:59Z",
+                "open_issues": 292,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8929,
+                "stars": 8932,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -2106,7 +2106,7 @@
                 "open_issues": 98,
                 "owner": "XVimProject",
                 "repo": "XVim2",
-                "stars": 2286,
+                "stars": 2285,
                 "topics": [
                   "macos",
                   "vim",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T06:28:52.402Z",
+    "last_updated": "2026-09-17T06:28:59.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
