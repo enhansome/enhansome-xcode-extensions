@@ -72,7 +72,7 @@
                 "open_issues": 292,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8932,
+                "stars": 8933,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:28:59.697Z",
+    "last_updated": "2026-09-18T06:23:08.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
