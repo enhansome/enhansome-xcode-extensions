@@ -16,10 +16,10 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,933 | 🐛 292 | 🌐 Swift | 📅 2026-09-16 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,926 | 🐛 294 | 🌐 Swift | 📅 2026-09-16 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
-* [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
+* [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) ⭐ 190 | 🐛 1 | 🌐 Swift | 📅 2018-02-13 - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
 * [CleanClosureXcode](https://github.com/BalestraPatrick/CleanClosureXcode) ⭐ 181 | 🐛 0 | 🌐 Swift | 📅 2018-01-06 - An Xcode Source Editor extension to clean the closure syntax.
 * [AccessControlKitty](https://github.com/zoejessica/accesscontrolkitty) ⭐ 139 | 🐛 5 | 🌐 Swift | 📅 2021-06-06 - Change the access control level (public, private etc.) of selected Swift code.
@@ -33,14 +33,14 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Typed Boilerplate Code Generators
 
-* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,669 | 🐛 9 | 🌐 JavaScript | 📅 2021-03-11 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
+* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,667 | 🐛 9 | 🌐 JavaScript | 📅 2021-03-11 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 * [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) ⭐ 758 | 🐛 20 | 🌐 Objective-C | 📅 2022-09-20 - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) ⭐ 714 | 🐛 7 | 🌐 Swift | 📅 2019-08-13 - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
 * [SwiftAI](https://github.com/hhfa008/SwiftAI) ⭐ 493 | 🐛 3 | 🌐 Swift | 📅 2020-03-14  - generate Codable\&HandyJSON model class from JSON automatically
-* [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) ⭐ 188 | 🐛 1 | 🌐 Swift | 📅 2019-03-27 - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
+* [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) ⭐ 187 | 🐛 1 | 🌐 Swift | 📅 2019-03-27 - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
 * [TrickerX](https://github.com/wleii/TrickerX) ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2024-02-02 - Help you make Swift `Codable` `CodingKeys` automatically.
 * [ViewGenerator](https://github.com/funzin/ViewGenerator) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2021-11-30 - ViewGenerator generates view code from variable name automatically in iOS development.
-* [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) ⭐ 74 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Xcode editor extension for swift code generation.
+* [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) ⭐ 73 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Xcode editor extension for swift code generation.
 * [Switch Enum Case Generator](https://github.com/timaktimak/SwitchCaseGenerator) ⭐ 66 | 🐛 2 | 🌐 Swift | 📅 2016-12-26 - Instant switch with selected enum cases
 * [Swift Init Generator](https://github.com/Atimca/SwiftInitGenerator) ⭐ 58 | 🐛 0 | 🌐 Swift | 📅 2020-05-31 - This Xcode 10 Source Code Extension generates a Swift initialezer based on the lines you've selected. Also suports filtering unnecessary fields and transition to a new line, when the init string is long.
 * [Localizer](https://github.com/esttorhe/Localizer) ⭐ 55 | 🐛 3 | 🌐 Swift | 📅 2016-06-28 - It then breaks apart any String declarations it founds by splitting the selection based off " and then wrap the resulting String inside NSLocalizedString.
@@ -51,7 +51,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) ⭐ 35 | 🐛 3 | 🌐 Objective-C | 📅 2018-10-12 - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ThenGenerator](https://github.com/87kangsw/ThenGenerator) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2022-01-15 - Xcode Source Editor Extension for 'Then'
 * [BExtension](https://github.com/DominikBucher12/BEExtension) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2018-09-21 - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed\&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
-* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,132 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
+* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,131 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
 
 ### Helper on editing
 
@@ -66,8 +66,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [Eric’s Mark](https://github.com/richardfrk/EricsMark) ⭐ 56 | 🐛 2 | 🌐 Swift | 📅 2021-05-29 - Identifies IBOutlets, IBActions, Super Classes, Properties (and more) and MARK them.
 * [XcodeEditorPlus](https://github.com/wangshengjia/XcodeEditorPlus) ⭐ 48 | 🐛 2 | 🌐 Swift | 📅 2017-01-05 - Bring some convenient editor shortcuts to Xcode using Xcode Source Editor Extension, inspired from AppCode.
 * [XcodeCComment](https://github.com/flexih/XcodeCComment) ⭐ 41 | 🐛 0 | 🌐 Swift | 📅 2021-04-18 - Xcode Source Editor Extension for C Style Comment /\*\*/
-* [Convert to Multi-Line Function](https://github.com/chrischute/xcode-multi-line-func) ⭐ 39 | 🐛 4 | 🌐 Swift | 📅 2022-02-18 - XCode Source Editor Command to put each function argument on its own line.
 * [Literals](https://github.com/Igor-Palaguta/LiteralsExtension) ⭐ 38 | 🐛 1 | 🌐 Swift | 📅 2020-04-12 - Converts UIColor, NSColor, UIImage to literals
+* [Convert to Multi-Line Function](https://github.com/chrischute/xcode-multi-line-func) ⭐ 38 | 🐛 4 | 🌐 Swift | 📅 2022-02-18 - XCode Source Editor Command to put each function argument on its own line.
 * [LocalizedString](https://github.com/mateusfsilva/LocalizedString) ⭐ 35 | 🐛 0 | 🌐 Swift | 📅 2020-07-03 - Xcode Source Editor Extension that helps to localize Swift and Objective-C source files
 * [SwitchIt](https://github.com/HarmVanRisk/SwitchIt) ⭐ 29 | 🐛 0 | 🌐 Objective-C | 📅 2017-05-29 - An Xcode Extension that auto generates your switch statements from your defined enums. Can be downloaded on the app store [here](https://apps.apple.com/ie/app/switchit/id1244401606?mt=12)
 * [XCJumpToTests](https://github.com/takasek/XCJumpToTests) ⭐ 28 | 🐛 3 | 🌐 Objective-C | 📅 2021-06-30 - the Xcode Source Editor Extension / AppleScript to jump files of Implementation⇄Tests
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

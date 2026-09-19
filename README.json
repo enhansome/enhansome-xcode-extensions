@@ -69,10 +69,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-16T16:58:59Z",
-                "open_issues": 292,
+                "open_issues": 294,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8933,
+                "stars": 8926,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -119,7 +119,7 @@
                 "open_issues": 0,
                 "owner": "Jintin",
                 "repo": "Swimat",
-                "stars": 1630,
+                "stars": 1629,
                 "topics": [
                   "formatter",
                   "swift",
@@ -147,7 +147,7 @@
                 "open_issues": 4,
                 "owner": "tid-kijyun",
                 "repo": "XcodeSourceEditorExtension-Alignment",
-                "stars": 216,
+                "stars": 215,
                 "topics": [
                   "swift",
                   "xcode",
@@ -412,7 +412,7 @@
                 "open_issues": 9,
                 "owner": "glideapps",
                 "repo": "quicktype-xcode",
-                "stars": 1669,
+                "stars": 1667,
                 "topics": [
                   "cpp",
                   "json",
@@ -533,7 +533,7 @@
                 "open_issues": 1,
                 "owner": "sergdort",
                 "repo": "XcodeEquatableGenerator",
-                "stars": 188,
+                "stars": 187,
                 "topics": [
                   "extension",
                   "swift-equatable",
@@ -622,7 +622,7 @@
                 "open_issues": 1,
                 "owner": "wangjiejacques",
                 "repo": "CodeGenerator",
-                "stars": 74,
+                "stars": 73,
                 "topics": [
                   "xcode-extension"
                 ]
@@ -1200,27 +1200,6 @@
             },
             {
               "node_type": "item",
-              "title": "Convert to Multi-Line Function",
-              "description": "XCode Source Editor Command to put each function argument on its own line.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "XCode extension to split a Swift function onto multiple lines",
-                "homepage": null,
-                "id": 185464576,
-                "language": "Swift",
-                "license": null,
-                "last_commit": "2022-02-18T12:31:26Z",
-                "open_issues": 4,
-                "owner": "chrischute",
-                "repo": "xcode-multi-line-func",
-                "stars": 39,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:13:35.160Z"
-            },
-            {
-              "node_type": "item",
               "title": "Literals",
               "description": "Converts UIColor, NSColor, UIImage to literals",
               "children": [],
@@ -1240,6 +1219,27 @@
                   "xcode",
                   "xcode-extension"
                 ]
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Convert to Multi-Line Function",
+              "description": "XCode Source Editor Command to put each function argument on its own line.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "XCode extension to split a Swift function onto multiple lines",
+                "homepage": null,
+                "id": 185464576,
+                "language": "Swift",
+                "license": null,
+                "last_commit": "2022-02-18T12:31:26Z",
+                "open_issues": 4,
+                "owner": "chrischute",
+                "repo": "xcode-multi-line-func",
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
             },
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:23:08.323Z",
+    "last_updated": "2026-09-19T06:21:14.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3226,
+      "stars": 3225,
       "topics": [
         "awesome",
         "extension",
