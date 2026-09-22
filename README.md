@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,929 | 🐛 294 | 🌐 Swift | 📅 2026-09-16 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,929 | 🐛 293 | 🌐 Swift | 📅 2026-09-21 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -96,9 +96,9 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Collaborations with internal/external services
 
 * [XcodeWay](https://github.com/onmyway133/XcodeWay) ⭐ 554 | 🐛 4 | 🌐 Swift | 📅 2023-11-29 - Navigate to many places from Xcode
-* [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 547 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
+* [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 543 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
 * [nef](https://github.com/bow-swift/nef-plugin) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2021-11-11 - This Xcode extension enables you to make a code selection and export it to a snippets. **Available on Mac App Store**.
-* [Xgist](https://github.com/Bunn/Xgist) ⭐ 81 | 🐛 4 | 🌐 Swift | 📅 2017-05-27 - Xcode Source Editor Extension that sends code to GitHub's [Gist](https://gist.github.com)
+* [Xgist](https://github.com/Bunn/Xgist) ⭐ 80 | 🐛 4 | 🌐 Swift | 📅 2017-05-27 - Xcode Source Editor Extension that sends code to GitHub's [Gist](https://gist.github.com)
 * [XShared](https://github.com/Otbivnoe/XShared) ⚠️ Archived - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
 * [GitBlamePR](https://github.com/maoyama/GitBlamePR) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2024-09-21 - An Xcode Source Editor Extension that shows pull request last modified each line of a file.
 * [RaySo](https://github.com/artemnovichkov/RaySo) ⭐ 33 | 🐛 0 | 🌐 Swift | 📅 2024-12-06 - share your awesome code to [ray.so](https://ray.so) with Xcode Extension.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

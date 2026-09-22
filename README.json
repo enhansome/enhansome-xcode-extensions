@@ -68,8 +68,8 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-16T16:58:59Z",
-                "open_issues": 294,
+                "last_commit": "2026-09-21T21:21:03Z",
+                "open_issues": 293,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
                 "stars": 8929,
@@ -1708,7 +1708,7 @@
                 "open_issues": 1,
                 "owner": "insidegui",
                 "repo": "PlayAlways",
-                "stars": 547,
+                "stars": 543,
                 "topics": [
                   "developer-tools",
                   "playground",
@@ -1766,7 +1766,7 @@
                 "open_issues": 4,
                 "owner": "Bunn",
                 "repo": "Xgist",
-                "stars": 81,
+                "stars": 80,
                 "topics": [
                   "developer-tools",
                   "gist",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:50:01.374Z",
+    "last_updated": "2026-09-22T06:36:41.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
