@@ -17,7 +17,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Formatters
 
 * [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,928 | 🐛 300 | 🌐 Swift | 📅 2026-09-25 - A code library and command-line formatting tool for reformatting Swift code
-* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
+* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,840 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) ⭐ 190 | 🐛 1 | 🌐 Swift | 📅 2018-02-13 - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
@@ -95,7 +95,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Collaborations with internal/external services
 
-* [XcodeWay](https://github.com/onmyway133/XcodeWay) ⭐ 554 | 🐛 4 | 🌐 Swift | 📅 2023-11-29 - Navigate to many places from Xcode
+* [XcodeWay](https://github.com/onmyway133/XcodeWay) ⭐ 553 | 🐛 4 | 🌐 Swift | 📅 2023-11-29 - Navigate to many places from Xcode
 * [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 543 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
 * [nef](https://github.com/bow-swift/nef-plugin) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2021-11-11 - This Xcode extension enables you to make a code selection and export it to a snippets. **Available on Mac App Store**.
 * [Xgist](https://github.com/Bunn/Xgist) ⭐ 80 | 🐛 4 | 🌐 Swift | 📅 2017-05-27 - Xcode Source Editor Extension that sends code to GitHub's [Gist](https://gist.github.com)
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

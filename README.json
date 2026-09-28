@@ -93,7 +93,7 @@
                 "open_issues": 57,
                 "owner": "qfish",
                 "repo": "XAlign",
-                "stars": 2841,
+                "stars": 2840,
                 "topics": [
                   "xalign",
                   "xcode-extension",
@@ -1681,7 +1681,7 @@
                 "open_issues": 4,
                 "owner": "onmyway133",
                 "repo": "XcodeWay",
-                "stars": 554,
+                "stars": 553,
                 "topics": [
                   "editor",
                   "extension",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T06:55:01.783Z",
+    "last_updated": "2026-09-28T07:22:47.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
