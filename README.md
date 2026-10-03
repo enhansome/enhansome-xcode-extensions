@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,929 | 🐛 293 | 🌐 Swift | 📅 2026-10-01 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,929 | 🐛 293 | 🌐 Swift | 📅 2026-10-02 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -33,7 +33,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Typed Boilerplate Code Generators
 
-* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,667 | 🐛 9 | 🌐 JavaScript | 📅 2021-03-11 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
+* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,666 | 🐛 9 | 🌐 JavaScript | 📅 2021-03-11 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 * [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) ⭐ 758 | 🐛 20 | 🌐 Objective-C | 📅 2022-09-20 - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) ⭐ 714 | 🐛 7 | 🌐 Swift | 📅 2019-08-13 - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
 * [SwiftAI](https://github.com/hhfa008/SwiftAI) ⭐ 493 | 🐛 3 | 🌐 Swift | 📅 2020-03-14  - generate Codable\&HandyJSON model class from JSON automatically
@@ -55,7 +55,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Helper on editing
 
-* [Import☝️](https://github.com/markohlebar/Import) ⭐ 838 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
+* [Import☝️](https://github.com/markohlebar/Import) ⭐ 837 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
 * [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2) ⭐ 287 | 🐛 1 | 🌐 Swift | 📅 2020-05-11 - An Xcode source editor extension that makes working with color easier
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) ⭐ 159 | 🐛 2 | 🌐 Swift | 📅 2018-12-26 - Runs spell check and auto correct on code comments.
 * [Mark](https://github.com/velyan/Mark) ⭐ 157 | 🐛 1 | 🌐 Swift | 📅 2019-03-30 - Generates MARK comments from protocol conformance in class declaration.
@@ -96,7 +96,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Collaborations with internal/external services
 
 * [XcodeWay](https://github.com/onmyway133/XcodeWay) ⭐ 553 | 🐛 4 | 🌐 Swift | 📅 2023-11-29 - Navigate to many places from Xcode
-* [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 543 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
+* [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 542 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
 * [nef](https://github.com/bow-swift/nef-plugin) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2021-11-11 - This Xcode extension enables you to make a code selection and export it to a snippets. **Available on Mac App Store**.
 * [Xgist](https://github.com/Bunn/Xgist) ⭐ 80 | 🐛 4 | 🌐 Swift | 📅 2017-05-27 - Xcode Source Editor Extension that sends code to GitHub's [Gist](https://gist.github.com)
 * [XShared](https://github.com/Otbivnoe/XShared) ⚠️ Archived - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

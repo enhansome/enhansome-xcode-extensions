@@ -68,7 +68,7 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:13:06Z",
+                "last_commit": "2026-10-02T23:05:00Z",
                 "open_issues": 293,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
@@ -412,7 +412,7 @@
                 "open_issues": 9,
                 "owner": "glideapps",
                 "repo": "quicktype-xcode",
-                "stars": 1667,
+                "stars": 1666,
                 "topics": [
                   "cpp",
                   "json",
@@ -937,7 +937,7 @@
                 "open_issues": 10,
                 "owner": "markohlebar",
                 "repo": "Import",
-                "stars": 838,
+                "stars": 837,
                 "topics": [
                   "macos",
                   "xcode",
@@ -1708,7 +1708,7 @@
                 "open_issues": 1,
                 "owner": "insidegui",
                 "repo": "PlayAlways",
-                "stars": 543,
+                "stars": 542,
                 "topics": [
                   "developer-tools",
                   "playground",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:21:20.892Z",
+    "last_updated": "2026-10-03T05:14:16.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3226,
+      "stars": 3227,
       "topics": [
         "awesome",
         "extension",
