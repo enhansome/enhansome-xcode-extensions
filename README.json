@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:05:00Z",
-                "open_issues": 293,
+                "last_commit": "2026-10-04T00:03:32Z",
+                "open_issues": 294,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8929,
+                "stars": 8928,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -439,7 +439,7 @@
                 "open_issues": 20,
                 "owner": "seanhenry",
                 "repo": "SwiftMockGeneratorForXcode",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "mock",
                   "plugin",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:53:57.298Z",
+    "last_updated": "2026-10-04T07:15:40.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
