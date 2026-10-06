@@ -68,8 +68,8 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-05T06:41:04Z",
-                "open_issues": 293,
+                "last_commit": "2026-10-06T07:03:15Z",
+                "open_issues": 294,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
                 "stars": 8928,
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:29:07.836Z",
+    "last_updated": "2026-10-06T07:55:42.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
