@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,932 | 🐛 298 | 🌐 Swift | 📅 2026-10-13 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,933 | 🐛 297 | 🌐 Swift | 📅 2026-10-15 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,842 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -81,8 +81,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DeclareType](https://github.com/timaktimak/DeclareType) ⭐ 12 | 🐛 0 | 🌐 Swift | 📅 2016-12-25 - Generate the type declaration in your file based on the file name
 * [NSLayoutConstraintSourceEditorExtension](https://github.com/shindyu/NSLayoutConstraintSourceEditorExtension) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2019-01-24 - Quickly add NSLayoutConstraint. Also support multiple variables.
 * [XcodeTopComment](https://github.com/alexito4/XcodeTopComment) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2017-02-18 - Xcode Source Editor Extension to remove or modify the top comment of a file
-* [LineEscapeEx](https://github.com/sidepelican/LineEscapeEx) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2017-03-26 - Duplicate lines as comment
 * [HandyXcode](https://github.com/konkontos/HandyXcode) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2020-11-14 - A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)
+* [LineEscapeEx](https://github.com/sidepelican/LineEscapeEx) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2017-03-26 - Duplicate lines as comment
 * [XCSmartCutCopyPaste](https://github.com/mretondo/XCSmartCutCopyPaste) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2019-10-01 - Apply Cut or Copy commands to blank lines in line mode when there is no selection.
 * [DevHelper](https://github.com/AlexeyGolovenkov/DevHelper) ⭐ 2 | 🐛 3 | 🌐 Swift | 📅 2023-03-27 - Several inline tools - sort, comment out etc.
 * [DoubleTake](https://github.com/HarmVanRisk/DoubleTake) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2019-02-16 - An Xcode Extension that removes duplicate imports/@class defined in a class. Can be downloaded on the app store [here](https://apps.apple.com/ie/app/doubletake/id1453300536?mt=12)
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

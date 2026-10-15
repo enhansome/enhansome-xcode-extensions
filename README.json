@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-13T08:24:18Z",
-                "open_issues": 298,
+                "last_commit": "2026-10-15T05:45:31Z",
+                "open_issues": 297,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8932,
+                "stars": 8933,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -1555,27 +1555,6 @@
             },
             {
               "node_type": "item",
-              "title": "LineEscapeEx",
-              "description": "Duplicate lines as comment",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Duplicate lines as comment. (Xcode Source Editor Extension, Xcode 8+)",
-                "homepage": null,
-                "id": 80327411,
-                "language": "Swift",
-                "license": "MIT",
-                "last_commit": "2017-03-26T14:01:46Z",
-                "open_issues": 0,
-                "owner": "sidepelican",
-                "repo": "LineEscapeEx",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:13:35.160Z"
-            },
-            {
-              "node_type": "item",
               "title": "HandyXcode",
               "description": "A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)",
               "children": [],
@@ -1590,6 +1569,27 @@
                 "open_issues": 0,
                 "owner": "konkontos",
                 "repo": "HandyXcode",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LineEscapeEx",
+              "description": "Duplicate lines as comment",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Duplicate lines as comment. (Xcode Source Editor Extension, Xcode 8+)",
+                "homepage": null,
+                "id": 80327411,
+                "language": "Swift",
+                "license": "MIT",
+                "last_commit": "2017-03-26T14:01:46Z",
+                "open_issues": 0,
+                "owner": "sidepelican",
+                "repo": "LineEscapeEx",
                 "stars": 4,
                 "topics": []
               },
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:32:03.998Z",
+    "last_updated": "2026-10-15T06:14:51.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3227,
+      "stars": 3225,
       "topics": [
         "awesome",
         "extension",
