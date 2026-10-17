@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,934 | 🐛 296 | 🌐 Swift | 📅 2026-10-15 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,934 | 🐛 293 | 🌐 Swift | 📅 2026-10-16 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,842 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -33,7 +33,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Typed Boilerplate Code Generators
 
-* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,667 | 🐛 9 | 🌐 JavaScript | 📅 2021-03-11 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
+* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,667 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-16 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 * [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) ⭐ 759 | 🐛 20 | 🌐 Objective-C | 📅 2022-09-20 - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
 * [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) ⭐ 714 | 🐛 7 | 🌐 Swift | 📅 2019-08-13 - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
 * [SwiftAI](https://github.com/hhfa008/SwiftAI) ⭐ 493 | 🐛 3 | 🌐 Swift | 📅 2020-03-14  - generate Codable\&HandyJSON model class from JSON automatically
@@ -51,7 +51,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) ⭐ 35 | 🐛 3 | 🌐 Objective-C | 📅 2018-10-12 - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ThenGenerator](https://github.com/87kangsw/ThenGenerator) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2022-01-15 - Xcode Source Editor Extension for 'Then'
 * [BExtension](https://github.com/DominikBucher12/BEExtension) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2018-09-21 - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed\&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
-* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,127 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
+* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,126 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
 
 ### Helper on editing
 
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

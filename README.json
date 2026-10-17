@@ -68,8 +68,8 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-15T21:26:32Z",
-                "open_issues": 296,
+                "last_commit": "2026-10-16T23:21:34Z",
+                "open_issues": 293,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
                 "stars": 8934,
@@ -408,8 +408,8 @@
                 "id": 115092383,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2021-03-11T01:18:11Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-16T14:03:32Z",
+                "open_issues": 13,
                 "owner": "glideapps",
                 "repo": "quicktype-xcode",
                 "stars": 1667,
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:10:34.628Z",
+    "last_updated": "2026-10-17T05:56:42.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
