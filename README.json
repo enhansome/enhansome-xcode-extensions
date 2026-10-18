@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-16T23:21:34Z",
-                "open_issues": 293,
+                "last_commit": "2026-10-17T18:20:29Z",
+                "open_issues": 295,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8934,
+                "stars": 8935,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -93,7 +93,7 @@
                 "open_issues": 57,
                 "owner": "qfish",
                 "repo": "XAlign",
-                "stars": 2842,
+                "stars": 2841,
                 "topics": [
                   "xalign",
                   "xcode-extension",
@@ -1795,7 +1795,7 @@
                 "open_issues": 0,
                 "owner": "Otbivnoe",
                 "repo": "XShared",
-                "stars": 73,
+                "stars": 74,
                 "topics": [
                   "swift",
                   "xcode",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T05:56:42.158Z",
+    "last_updated": "2026-10-18T06:24:08.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
