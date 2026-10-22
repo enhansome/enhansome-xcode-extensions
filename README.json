@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-21T03:08:51Z",
-                "open_issues": 296,
+                "last_commit": "2026-10-22T01:18:36Z",
+                "open_issues": 297,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8937,
+                "stars": 8938,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -2132,7 +2132,7 @@
                 "open_issues": 1,
                 "owner": "MarcoEidinger",
                 "repo": "SwiftPlantUML-Xcode-Extension",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "macos",
                   "osx",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:22:34.645Z",
+    "last_updated": "2026-10-22T06:25:45.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3227,
+      "stars": 3228,
       "topics": [
         "awesome",
         "extension",
