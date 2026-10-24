@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,941 | 🐛 294 | 🌐 Swift | 📅 2026-10-22 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,945 | 🐛 289 | 🌐 Swift | 📅 2026-10-23 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -40,7 +40,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) ⭐ 187 | 🐛 1 | 🌐 Swift | 📅 2019-03-27 - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
 * [TrickerX](https://github.com/wleii/TrickerX) ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2024-02-02 - Help you make Swift `Codable` `CodingKeys` automatically.
 * [ViewGenerator](https://github.com/funzin/ViewGenerator) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2021-11-30 - ViewGenerator generates view code from variable name automatically in iOS development.
-* [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) ⭐ 73 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Xcode editor extension for swift code generation.
+* [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) ⭐ 74 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Xcode editor extension for swift code generation.
 * [Switch Enum Case Generator](https://github.com/timaktimak/SwitchCaseGenerator) ⭐ 66 | 🐛 2 | 🌐 Swift | 📅 2016-12-26 - Instant switch with selected enum cases
 * [Swift Init Generator](https://github.com/Atimca/SwiftInitGenerator) ⭐ 58 | 🐛 0 | 🌐 Swift | 📅 2020-05-31 - This Xcode 10 Source Code Extension generates a Swift initialezer based on the lines you've selected. Also suports filtering unnecessary fields and transition to a new line, when the init string is long.
 * [Localizer](https://github.com/esttorhe/Localizer) ⭐ 55 | 🐛 3 | 🌐 Swift | 📅 2016-06-28 - It then breaks apart any String declarations it founds by splitting the selection based off " and then wrap the resulting String inside NSLocalizedString.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
