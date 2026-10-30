@@ -16,8 +16,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,950 | 🐛 292 | 🌐 Swift | 📅 2026-10-28 - A code library and command-line formatting tool for reformatting Swift code
-* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,950 | 🐛 288 | 🌐 Swift | 📅 2026-10-29 - A code library and command-line formatting tool for reformatting Swift code
+* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,840 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) ⭐ 190 | 🐛 1 | 🌐 Swift | 📅 2018-02-13 - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
