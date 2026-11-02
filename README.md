@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,950 | 🐛 287 | 🌐 Swift | 📅 2026-11-01 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,951 | 🐛 287 | 🌐 Swift | 📅 2026-11-02 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,840 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -40,7 +40,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) ⭐ 187 | 🐛 1 | 🌐 Swift | 📅 2019-03-27 - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
 * [TrickerX](https://github.com/wleii/TrickerX) ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2024-02-02 - Help you make Swift `Codable` `CodingKeys` automatically.
 * [ViewGenerator](https://github.com/funzin/ViewGenerator) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2021-11-30 - ViewGenerator generates view code from variable name automatically in iOS development.
-* [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) ⭐ 74 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Xcode editor extension for swift code generation.
+* [CodeGenerator](https://github.com/WANGjieJacques/CodeGenerator/) ⭐ 73 | 🐛 1 | 🌐 Swift | 📅 2018-02-15 - Xcode editor extension for swift code generation.
 * [Switch Enum Case Generator](https://github.com/timaktimak/SwitchCaseGenerator) ⭐ 66 | 🐛 2 | 🌐 Swift | 📅 2016-12-26 - Instant switch with selected enum cases
 * [Swift Init Generator](https://github.com/Atimca/SwiftInitGenerator) ⭐ 58 | 🐛 0 | 🌐 Swift | 📅 2020-05-31 - This Xcode 10 Source Code Extension generates a Swift initialezer based on the lines you've selected. Also suports filtering unnecessary fields and transition to a new line, when the init string is long.
 * [Localizer](https://github.com/esttorhe/Localizer) ⭐ 55 | 🐛 3 | 🌐 Swift | 📅 2016-06-28 - It then breaks apart any String declarations it founds by splitting the selection based off " and then wrap the resulting String inside NSLocalizedString.
@@ -51,7 +51,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) ⭐ 35 | 🐛 3 | 🌐 Objective-C | 📅 2018-10-12 - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ThenGenerator](https://github.com/87kangsw/ThenGenerator) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2022-01-15 - Xcode Source Editor Extension for 'Then'
 * [BExtension](https://github.com/DominikBucher12/BEExtension) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2018-09-21 - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed\&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
-* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,123 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
+* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,122 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
 
 ### Helper on editing
 
@@ -124,7 +124,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Uncategorized
 
-* [XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,284 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14 - Vim key-bindings for Xcode.
+* [XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,283 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14 - Vim key-bindings for Xcode.
 * [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ⭐ 456 | 🐛 1 | 🌐 Swift | 📅 2024-01-02 - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser.
 * [EmojifySourceEditorExtension](https://github.com/bhargavg/EmojifySourceEditorExtension) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2016-06-15 - A Proof-Of-Concept implementation of the new Xcode Source Editor Extension
 * [CwlWhitespace](https://github.com/mattgallagher/CwlWhitespace) ⭐ 26 | 🐛 1 | 🌐 Swift | 📅 2018-10-24 - The first command uses multiple selections to select every text range in your file that it believes is violating a whitespace rule. If a line contains a zero-length problem (missing whitespace or missing indent) then the whole line will be selected.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
