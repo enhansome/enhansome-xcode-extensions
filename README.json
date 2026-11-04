@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-03T03:10:04Z",
-                "open_issues": 288,
+                "last_commit": "2026-11-03T22:42:29Z",
+                "open_issues": 289,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8953,
+                "stars": 8955,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -119,7 +119,7 @@
                 "open_issues": 0,
                 "owner": "Jintin",
                 "repo": "Swimat",
-                "stars": 1629,
+                "stars": 1628,
                 "topics": [
                   "formatter",
                   "swift",
@@ -937,7 +937,7 @@
                 "open_issues": 10,
                 "owner": "markohlebar",
                 "repo": "Import",
-                "stars": 837,
+                "stars": 836,
                 "topics": [
                   "macos",
                   "xcode",
@@ -1681,7 +1681,7 @@
                 "open_issues": 4,
                 "owner": "onmyway133",
                 "repo": "XcodeWay",
-                "stars": 553,
+                "stars": 552,
                 "topics": [
                   "editor",
                   "extension",
@@ -1708,7 +1708,7 @@
                 "open_issues": 1,
                 "owner": "insidegui",
                 "repo": "PlayAlways",
-                "stars": 542,
+                "stars": 541,
                 "topics": [
                   "developer-tools",
                   "playground",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:21:48.042Z",
+    "last_updated": "2026-11-04T07:50:36.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3230,
+      "stars": 3229,
       "topics": [
         "awesome",
         "extension",
