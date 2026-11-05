@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,955 | 🐛 289 | 🌐 Swift | 📅 2026-11-03 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,955 | 🐛 290 | 🌐 Swift | 📅 2026-11-04 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,840 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 215 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -51,7 +51,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) ⭐ 35 | 🐛 3 | 🌐 Objective-C | 📅 2018-10-12 - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ThenGenerator](https://github.com/87kangsw/ThenGenerator) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2022-01-15 - Xcode Source Editor Extension for 'Then'
 * [BExtension](https://github.com/DominikBucher12/BEExtension) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2018-09-21 - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed\&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
-* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,122 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
+* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,121 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
 
 ### Helper on editing
 
@@ -63,7 +63,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [MGTextPlus](https://github.com/tuan188/MGTextPlus) ⚠️ Archived - A Xcode Source Editor extension to duplicate line, delete line, join lines and more.
 * [AutoImport](https://github.com/hhfa008/AutoImport) ⭐ 82 | 🐛 3 | 🌐 Objective-C | 📅 2017-12-23 - AutoImport, handy Xcode plugin to import header file automatically.
 * [Quick Add](https://github.com/funky-monkey/QuickAdd) ⭐ 69 | 🐛 0 | 🌐 Swift | 📅 2018-10-29 - A Xcode Source Editor Extension to quickly add a method implementation with comment from selected text
-* [Eric’s Mark](https://github.com/richardfrk/EricsMark) ⭐ 56 | 🐛 2 | 🌐 Swift | 📅 2021-05-29 - Identifies IBOutlets, IBActions, Super Classes, Properties (and more) and MARK them.
+* [Eric’s Mark](https://github.com/richardfrk/EricsMark) ⭐ 57 | 🐛 2 | 🌐 Swift | 📅 2021-05-29 - Identifies IBOutlets, IBActions, Super Classes, Properties (and more) and MARK them.
 * [XcodeEditorPlus](https://github.com/wangshengjia/XcodeEditorPlus) ⭐ 48 | 🐛 2 | 🌐 Swift | 📅 2017-01-05 - Bring some convenient editor shortcuts to Xcode using Xcode Source Editor Extension, inspired from AppCode.
 * [XcodeCComment](https://github.com/flexih/XcodeCComment) ⭐ 41 | 🐛 0 | 🌐 Swift | 📅 2021-04-18 - Xcode Source Editor Extension for C Style Comment /\*\*/
 * [Literals](https://github.com/Igor-Palaguta/LiteralsExtension) ⭐ 38 | 🐛 1 | 🌐 Swift | 📅 2020-04-12 - Converts UIColor, NSColor, UIImage to literals
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
