@@ -16,7 +16,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,955 | 🐛 286 | 🌐 Swift | 📅 2026-11-06 - A code library and command-line formatting tool for reformatting Swift code
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,954 | 🐛 290 | 🌐 Swift | 📅 2026-11-06 - A code library and command-line formatting tool for reformatting Swift code
 * [XAlign](https://github.com/qfish/XAlign) ⭐ 2,840 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
@@ -51,11 +51,11 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) ⭐ 35 | 🐛 3 | 🌐 Objective-C | 📅 2018-10-12 - Xcode source editor extension which helps you write documentation comment easier, for both Objective-C and Swift.
 * [ThenGenerator](https://github.com/87kangsw/ThenGenerator) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2022-01-15 - Xcode Source Editor Extension for 'Then'
 * [BExtension](https://github.com/DominikBucher12/BEExtension) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2018-09-21 - Xcode Source extension for delivering enums and variables from enum cases, see [this article](https://www.linkedin.com/pulse/xcode-extension-defining-enum-variables-swift-moreerror-bucher?trk=v-feed\&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGQbYZpETZvH9TQq77%2BltRg%3D%3D)
-* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,121 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
+* [MappingCoder](https://github.com/wgy6055/MappingCoder) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2021-08-06 - This Xcode Source Editor Extension generates [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) ⭐ 9,120 | 🐛 68 | 🌐 Swift | 📅 2024-05-02 class/struct based on the lines you've selected. Also, it auto completes `init(map:)` and `mapping(map:)` based on SwiftSyntax.
 
 ### Helper on editing
 
-* [Import☝️](https://github.com/markohlebar/Import) ⭐ 836 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
+* [Import☝️](https://github.com/markohlebar/Import) ⭐ 834 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
 * [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2) ⭐ 287 | 🐛 1 | 🌐 Swift | 📅 2020-05-11 - An Xcode source editor extension that makes working with color easier
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) ⭐ 159 | 🐛 2 | 🌐 Swift | 📅 2018-12-26 - Runs spell check and auto correct on code comments.
 * [Mark](https://github.com/velyan/Mark) ⭐ 157 | 🐛 1 | 🌐 Swift | 📅 2019-03-30 - Generates MARK comments from protocol conformance in class declaration.
@@ -75,7 +75,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [BlockComment](https://github.com/bradhowes/BlockComment) ⭐ 21 | 🐛 0 | 🌐 Swift | 📅 2025-12-13 - Parses Swift code to generate block comment contents
 * [XPaste](https://github.com/rickytan/XPaste) ⭐ 19 | 🐛 0 | 🌐 Objective-C | 📅 2026-06-20 - A Xcode Source Extension to power up your text paste abilities
 * [XSpellCheck](https://github.com/wangjiejacques/XSpellCheck) ⭐ 18 | 🐛 0 | 🌐 Swift | 📅 2018-04-03 - XSpellCheck is a Xcode extension for swift code spell check.
-* [FastCommentLine](https://github.com/ebaker355/FastCommentLine) ⭐ 18 | 🐛 1 | 🌐 Swift | 📅 2020-11-19 - Moves cursor to next line after commenting/uncommenting current line (like AppCode).
+* [FastCommentLine](https://github.com/ebaker355/FastCommentLine) ⭐ 17 | 🐛 1 | 🌐 Swift | 📅 2020-11-19 - Moves cursor to next line after commenting/uncommenting current line (like AppCode).
 * [Linex](https://github.com/uchuugaka/Linex) ⭐ 15 | 🐛 1 | 🌐 Swift | 📅 2020-11-25 - Packed with a lot of useful tools for everyday editing (*may no longer be maintained*)
 * [Duplicate Line](https://github.com/castus/Xcode8Extensions) ⭐ 14 | 🐛 2 | 🌐 Swift | 📅 2017-01-26 - Xcode's source editor extension to duplicate selected line or lines.
 * [DeclareType](https://github.com/timaktimak/DeclareType) ⭐ 12 | 🐛 0 | 🌐 Swift | 📅 2016-12-25 - Generate the type declaration in your file based on the file name
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

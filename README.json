@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-06T07:44:23Z",
-                "open_issues": 286,
+                "last_commit": "2026-11-06T18:08:48Z",
+                "open_issues": 290,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8955,
+                "stars": 8954,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -937,7 +937,7 @@
                 "open_issues": 10,
                 "owner": "markohlebar",
                 "repo": "Import",
-                "stars": 836,
+                "stars": 834,
                 "topics": [
                   "macos",
                   "xcode",
@@ -1433,7 +1433,7 @@
                 "open_issues": 1,
                 "owner": "ebaker355",
                 "repo": "FastCommentLine",
-                "stars": 18,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T08:19:16.265Z",
+    "last_updated": "2026-11-07T07:37:02.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
