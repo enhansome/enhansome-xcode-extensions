@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-10T05:50:25Z",
-                "open_issues": 289,
+                "last_commit": "2026-11-11T07:52:05Z",
+                "open_issues": 290,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8958,
+                "stars": 8960,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -412,7 +412,7 @@
                 "open_issues": 14,
                 "owner": "glideapps",
                 "repo": "quicktype-xcode",
-                "stars": 1667,
+                "stars": 1668,
                 "topics": [
                   "cpp",
                   "json",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:42:50.762Z",
+    "last_updated": "2026-11-11T08:05:54.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
