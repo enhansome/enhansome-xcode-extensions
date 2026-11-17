@@ -68,11 +68,11 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-15T17:21:12Z",
-                "open_issues": 289,
+                "last_commit": "2026-11-16T18:53:27Z",
+                "open_issues": 290,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
-                "stars": 8956,
+                "stars": 8959,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:13:35.160Z"
@@ -93,7 +93,7 @@
                 "open_issues": 57,
                 "owner": "qfish",
                 "repo": "XAlign",
-                "stars": 2840,
+                "stars": 2841,
                 "topics": [
                   "xalign",
                   "xcode-extension",
@@ -472,7 +472,7 @@
                 "open_issues": 7,
                 "owner": "Bouke",
                 "repo": "SwiftInitializerGenerator",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "code-generator",
                   "swift",
@@ -498,7 +498,7 @@
                 "open_issues": 3,
                 "owner": "hhfa008",
                 "repo": "SwiftAI",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "cocoa",
                   "cocoa-touch",
@@ -937,7 +937,7 @@
                 "open_issues": 10,
                 "owner": "markohlebar",
                 "repo": "Import",
-                "stars": 834,
+                "stars": 835,
                 "topics": [
                   "macos",
                   "xcode",
@@ -2132,7 +2132,7 @@
                 "open_issues": 1,
                 "owner": "MarcoEidinger",
                 "repo": "SwiftPlantUML-Xcode-Extension",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "macos",
                   "osx",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T08:21:55.352Z",
+    "last_updated": "2026-11-17T09:36:02.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
