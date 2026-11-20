@@ -68,8 +68,8 @@
                 "id": 66302557,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-17T22:57:56Z",
-                "open_issues": 288,
+                "last_commit": "2026-11-20T05:17:13Z",
+                "open_issues": 289,
                 "owner": "nicklockwood",
                 "repo": "SwiftFormat",
                 "stars": 8957,
@@ -93,7 +93,7 @@
                 "open_issues": 57,
                 "owner": "qfish",
                 "repo": "XAlign",
-                "stars": 2841,
+                "stars": 2840,
                 "topics": [
                   "xalign",
                   "xcode-extension",
@@ -119,7 +119,7 @@
                 "open_issues": 0,
                 "owner": "Jintin",
                 "repo": "Swimat",
-                "stars": 1628,
+                "stars": 1627,
                 "topics": [
                   "formatter",
                   "swift",
@@ -412,7 +412,7 @@
                 "open_issues": 14,
                 "owner": "glideapps",
                 "repo": "quicktype-xcode",
-                "stars": 1668,
+                "stars": 1667,
                 "topics": [
                   "cpp",
                   "json",
@@ -472,7 +472,7 @@
                 "open_issues": 7,
                 "owner": "Bouke",
                 "repo": "SwiftInitializerGenerator",
-                "stars": 715,
+                "stars": 713,
                 "topics": [
                   "code-generator",
                   "swift",
@@ -498,7 +498,7 @@
                 "open_issues": 3,
                 "owner": "hhfa008",
                 "repo": "SwiftAI",
-                "stars": 494,
+                "stars": 493,
                 "topics": [
                   "cocoa",
                   "cocoa-touch",
@@ -937,7 +937,7 @@
                 "open_issues": 10,
                 "owner": "markohlebar",
                 "repo": "Import",
-                "stars": 835,
+                "stars": 834,
                 "topics": [
                   "macos",
                   "xcode",
@@ -1555,27 +1555,6 @@
             },
             {
               "node_type": "item",
-              "title": "HandyXcode",
-              "description": "A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "'Handy' Xcode source editor extensions.",
-                "homepage": null,
-                "id": 74669092,
-                "language": "Swift",
-                "license": null,
-                "last_commit": "2020-11-14T09:05:10Z",
-                "open_issues": 0,
-                "owner": "konkontos",
-                "repo": "HandyXcode",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:13:35.160Z"
-            },
-            {
-              "node_type": "item",
               "title": "LineEscapeEx",
               "description": "Duplicate lines as comment",
               "children": [],
@@ -1590,6 +1569,27 @@
                 "open_issues": 0,
                 "owner": "sidepelican",
                 "repo": "LineEscapeEx",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:13:35.160Z"
+            },
+            {
+              "node_type": "item",
+              "title": "HandyXcode",
+              "description": "A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "'Handy' Xcode source editor extensions.",
+                "homepage": null,
+                "id": 74669092,
+                "language": "Swift",
+                "license": null,
+                "last_commit": "2020-11-14T09:05:10Z",
+                "open_issues": 0,
+                "owner": "konkontos",
+                "repo": "HandyXcode",
                 "stars": 4,
                 "topics": []
               },
@@ -1735,7 +1735,7 @@
                 "open_issues": 1,
                 "owner": "bow-swift",
                 "repo": "nef-plugin",
-                "stars": 201,
+                "stars": 200,
                 "topics": [
                   "bow",
                   "hacktoberfest",
@@ -2132,7 +2132,7 @@
                 "open_issues": 1,
                 "owner": "MarcoEidinger",
                 "repo": "SwiftPlantUML-Xcode-Extension",
-                "stars": 457,
+                "stars": 456,
                 "topics": [
                   "macos",
                   "osx",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T09:12:19.334Z",
+    "last_updated": "2026-11-20T08:55:42.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3230,
+      "stars": 3231,
       "topics": [
         "awesome",
         "extension",

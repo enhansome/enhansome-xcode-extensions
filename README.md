@@ -16,8 +16,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Formatters
 
-* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,957 | 🐛 288 | 🌐 Swift | 📅 2026-11-17 - A code library and command-line formatting tool for reformatting Swift code
-* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,841 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
+* [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) ⭐ 8,957 | 🐛 289 | 🌐 Swift | 📅 2026-11-20 - A code library and command-line formatting tool for reformatting Swift code
+* [XAlign](https://github.com/qfish/XAlign) ⭐ 2,840 | 🐛 57 | 🌐 Objective-C | 📅 2021-12-08 - An amazing Xcode Source Editor extension to align regular code.
 * [Swimat](https://github.com/Jintin/Swimat) ⚠️ Archived - An Xcode formatter plug-in to format your swift code
 * [Alignment](https://github.com/tid-kijyun/XcodeSourceEditorExtension-Alignment) ⭐ 216 | 🐛 4 | 🌐 Swift | 📅 2020-11-23 -This Xcode source editor extension align your assignment statement.
 * [SwiftLintForXcode](https://github.com/norio-nomura/SwiftLintForXcode) ⭐ 190 | 🐛 1 | 🌐 Swift | 📅 2018-02-13 - SwiftLint for Xcode is a Xcode Extension that was created to run SwiftLint.
@@ -33,10 +33,10 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Typed Boilerplate Code Generators
 
-* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,668 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-19 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
+* [Paste JSON as Code (quicktype)](https://github.com/quicktype/quicktype-xcode) ⭐ 1,667 | 🐛 14 | 🌐 JavaScript | 📅 2026-10-19 – Paste JSON as Swift, Java, C++ or Obj-C++ models and serialization helpers.
 * [SwiftMockGeneratorForXcode](https://github.com/seanhenry/SwiftMockGeneratorForXcode) ⭐ 759 | 🐛 20 | 🌐 Objective-C | 📅 2022-09-20 - An Xcode 9 extension (plugin) to generate Swift mock classes automatically.
-* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) ⭐ 715 | 🐛 7 | 🌐 Swift | 📅 2019-08-13 - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
-* [SwiftAI](https://github.com/hhfa008/SwiftAI) ⭐ 494 | 🐛 3 | 🌐 Swift | 📅 2020-03-14  - generate Codable\&HandyJSON model class from JSON automatically
+* [SwiftInitializerGenerator](https://github.com/Bouke/SwiftInitializerGenerator) ⭐ 713 | 🐛 7 | 🌐 Swift | 📅 2019-08-13 - This Xcode 8 Source Code Extension will generate a Swift initializer based on the lines you've selected.
+* [SwiftAI](https://github.com/hhfa008/SwiftAI) ⭐ 493 | 🐛 3 | 🌐 Swift | 📅 2020-03-14  - generate Codable\&HandyJSON model class from JSON automatically
 * [XcodeEquatableGenerator](https://github.com/sergdort/XcodeEquatableGenerator) ⭐ 187 | 🐛 1 | 🌐 Swift | 📅 2019-03-27 - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection.
 * [TrickerX](https://github.com/wleii/TrickerX) ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2024-02-02 - Help you make Swift `Codable` `CodingKeys` automatically.
 * [ViewGenerator](https://github.com/funzin/ViewGenerator) ⭐ 84 | 🐛 0 | 🌐 Swift | 📅 2021-11-30 - ViewGenerator generates view code from variable name automatically in iOS development.
@@ -55,7 +55,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Helper on editing
 
-* [Import☝️](https://github.com/markohlebar/Import) ⭐ 835 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
+* [Import☝️](https://github.com/markohlebar/Import) ⭐ 834 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
 * [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2) ⭐ 287 | 🐛 1 | 🌐 Swift | 📅 2020-05-11 - An Xcode source editor extension that makes working with color easier
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) ⭐ 159 | 🐛 2 | 🌐 Swift | 📅 2018-12-26 - Runs spell check and auto correct on code comments.
 * [Mark](https://github.com/velyan/Mark) ⭐ 157 | 🐛 1 | 🌐 Swift | 📅 2019-03-30 - Generates MARK comments from protocol conformance in class declaration.
@@ -81,8 +81,8 @@ Please submit a pull request to improve this file. Thank you to all contributors
 * [DeclareType](https://github.com/timaktimak/DeclareType) ⭐ 12 | 🐛 0 | 🌐 Swift | 📅 2016-12-25 - Generate the type declaration in your file based on the file name
 * [NSLayoutConstraintSourceEditorExtension](https://github.com/shindyu/NSLayoutConstraintSourceEditorExtension) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2019-01-24 - Quickly add NSLayoutConstraint. Also support multiple variables.
 * [XcodeTopComment](https://github.com/alexito4/XcodeTopComment) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2017-02-18 - Xcode Source Editor Extension to remove or modify the top comment of a file
+* [LineEscapeEx](https://github.com/sidepelican/LineEscapeEx) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2017-03-26 - Duplicate lines as comment
 * [HandyXcode](https://github.com/konkontos/HandyXcode) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2020-11-14 - A few 'Handy' Xcode commands (insert code placeholder, multi-line comment, etc.)
-* [LineEscapeEx](https://github.com/sidepelican/LineEscapeEx) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2017-03-26 - Duplicate lines as comment
 * [XCSmartCutCopyPaste](https://github.com/mretondo/XCSmartCutCopyPaste) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2019-10-01 - Apply Cut or Copy commands to blank lines in line mode when there is no selection.
 * [DevHelper](https://github.com/AlexeyGolovenkov/DevHelper) ⭐ 2 | 🐛 3 | 🌐 Swift | 📅 2023-03-27 - Several inline tools - sort, comment out etc.
 * [DoubleTake](https://github.com/HarmVanRisk/DoubleTake) ⭐ 2 | 🐛 0 | 🌐 Swift | 📅 2019-02-16 - An Xcode Extension that removes duplicate imports/@class defined in a class. Can be downloaded on the app store [here](https://apps.apple.com/ie/app/doubletake/id1453300536?mt=12)
@@ -97,7 +97,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 * [XcodeWay](https://github.com/onmyway133/XcodeWay) ⭐ 552 | 🐛 4 | 🌐 Swift | 📅 2023-11-29 - Navigate to many places from Xcode
 * [PlayAlways](https://github.com/insidegui/PlayAlways) ⭐ 541 | 🐛 1 | 🌐 Swift | 📅 2021-02-04 - Create Xcode playgrounds from your menu bar.
-* [nef](https://github.com/bow-swift/nef-plugin) ⭐ 201 | 🐛 1 | 🌐 Swift | 📅 2021-11-11 - This Xcode extension enables you to make a code selection and export it to a snippets. **Available on Mac App Store**.
+* [nef](https://github.com/bow-swift/nef-plugin) ⭐ 200 | 🐛 1 | 🌐 Swift | 📅 2021-11-11 - This Xcode extension enables you to make a code selection and export it to a snippets. **Available on Mac App Store**.
 * [Xgist](https://github.com/Bunn/Xgist) ⭐ 80 | 🐛 4 | 🌐 Swift | 📅 2017-05-27 - Xcode Source Editor Extension that sends code to GitHub's [Gist](https://gist.github.com)
 * [XShared](https://github.com/Otbivnoe/XShared) ⚠️ Archived - Xcode extension which allows you copying the code with special formatting quotes for social (Slack, Telegram)
 * [GitBlamePR](https://github.com/maoyama/GitBlamePR) ⭐ 34 | 🐛 1 | 🌐 Swift | 📅 2024-09-21 - An Xcode Source Editor Extension that shows pull request last modified each line of a file.
@@ -125,7 +125,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 ### Uncategorized
 
 * [XVim2](https://github.com/XVimProject/XVim2) ⭐ 2,282 | 🐛 98 | 🌐 Objective-C | 📅 2023-01-14 - Vim key-bindings for Xcode.
-* [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ⭐ 457 | 🐛 1 | 🌐 Swift | 📅 2024-01-02 - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser.
+* [SwiftPlantUML](https://github.com/MarcoEidinger/SwiftPlantUML-Xcode-Extension) ⭐ 456 | 🐛 1 | 🌐 Swift | 📅 2024-01-02 - Xcode Extension for generating class diagrams from Swift code (powered by PlantUML). View and modify those generated diagrams in your browser.
 * [EmojifySourceEditorExtension](https://github.com/bhargavg/EmojifySourceEditorExtension) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2016-06-15 - A Proof-Of-Concept implementation of the new Xcode Source Editor Extension
 * [CwlWhitespace](https://github.com/mattgallagher/CwlWhitespace) ⭐ 26 | 🐛 1 | 🌐 Swift | 📅 2018-10-24 - The first command uses multiple selections to select every text range in your file that it believes is violating a whitespace rule. If a line contains a zero-length problem (missing whitespace or missing indent) then the whole line will be selected.
 * [FBXCodeExtension](https://github.com/flybrotherlixiang/FBXCodeExtension) ⭐ 18 | 🐛 1 | 🌐 Swift | 📅 2017-05-16 - An Xcode Source Editor Extension providing convenient line manipulation such like **line deletion** and **duplication**.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
