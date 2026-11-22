@@ -55,7 +55,7 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ### Helper on editing
 
-* [Import☝️](https://github.com/markohlebar/Import) ⭐ 834 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
+* [Import☝️](https://github.com/markohlebar/Import) ⭐ 833 | 🐛 10 | 🌐 Swift | 📅 2022-04-14 - Add imports from anywhere in the code.
 * [XcodeColorSense2](https://github.com/onmyway133/XcodeColorSense2) ⭐ 287 | 🐛 1 | 🌐 Swift | 📅 2020-05-11 - An Xcode source editor extension that makes working with color easier
 * [CommentSpellChecker](https://github.com/velyan/Comment-Spell-Checker) ⭐ 159 | 🐛 2 | 🌐 Swift | 📅 2018-12-26 - Runs spell check and auto correct on code comments.
 * [Mark](https://github.com/velyan/Mark) ⭐ 157 | 🐛 1 | 🌐 Swift | 📅 2019-03-30 - Generates MARK comments from protocol conformance in class declaration.
@@ -142,4 +142,4 @@ Please submit a pull request to improve this file. Thank you to all contributors
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

@@ -937,7 +937,7 @@
                 "open_issues": 10,
                 "owner": "markohlebar",
                 "repo": "Import",
-                "stars": 834,
+                "stars": 833,
                 "topics": [
                   "macos",
                   "xcode",
@@ -2368,7 +2368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:37:42.289Z",
+    "last_updated": "2026-11-22T08:34:04.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome native Xcode extensions.",
@@ -2380,7 +2380,7 @@
       "open_issues": 1,
       "owner": "theswiftdev",
       "repo": "awesome-xcode-extensions",
-      "stars": 3231,
+      "stars": 3230,
       "topics": [
         "awesome",
         "extension",
